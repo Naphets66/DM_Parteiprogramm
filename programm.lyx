@@ -1,0 +1,4748 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass scrartcl
+\begin_preamble
+\usepackage{lastpage}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{Politisches Programm der Deutschen Mitte}
+\rfoot{Seite \thepage \hspace{1pt} von \pageref{LastPage}}
+\lfoot{Autor: Norman Golisz\newline
+Version: 1.0}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language ngerman
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "biolinum" "default"
+\font_typewriter "cmtl" "default"
+\font_math "auto" "auto"
+\font_default_family sfdefault
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format pdf2
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle false
+\papersize a4paper
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip medskip
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style german
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes true
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\author 677693567 "Reiner Weber"
+\end_header
+
+\begin_body
+
+\begin_layout Title
+
+\change_deleted 677693567 1574703813
+Politisches
+\change_unchanged
+ Programm der Deutschen Mitte
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+Version 0.1
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagenumbering{arabic}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Verbatim
+
+\change_deleted 677693567 1575308013
+
+Begriffsdefinitionen
+\end_layout
+
+\begin_layout Description
+
+\change_deleted 677693567 1575308013
+Ethik bedeutet für die Deutsche Mitte Frieden, Gerechtigkeit, Solidarität,
+ Bewahrung des Lebens und der Natur.
+\end_layout
+
+\begin_layout Description
+
+\change_deleted 677693567 1575308013
+BGE bedeutet 
+\begin_inset Quotes gld
+\end_inset
+
+Bedingungsloses Grundeinkommen
+\begin_inset Quotes grd
+\end_inset
+
+ und beschreibt ein finanzielles Konzept, nach dem jeder Bürger eine festgelegte
+, vom Staat ausgezahlte finanzielle Zuwendung ohne Gegenleistung erhält.
+\end_layout
+
+\begin_layout Description
+
+\change_deleted 677693567 1575308013
+Globalisierung bezeichnet den Vorgang, in dem internationale Zusammenarbeit
+ in mehreren Bereichen wie Politik, Wirtschaft und Kultur zwischen Staaten,
+ Regionen, Gesellschaften, Institutionen oder Personen stattfindet.
+\end_layout
+
+\begin_layout Description
+
+\change_deleted 677693567 1575308013
+Geregelte Globalisierung Die Umstellung der Wirtschaft auf protektionistische
+ Abläufe auf der internationalen Ebene bringt mit sich die gleichen Auswirkungen
+ wie die Umstellung einer nationalen Wirtschaft auf regionale Abläufe: Es
+ können nicht alle Produkte hergestellt werden und die Dienstleistungen
+ angeboten werden die benötigt werden.
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+
+\change_deleted 677693567 1575308013
+Abhilfe im regionalen Bereich:
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+
+\change_deleted 677693567 1575308013
+1.
+ Abgesprochene Zusammenarbeit mit anderen regionalen Bereichen
+\end_layout
+
+\begin_layout Description
+
+\change_deleted 677693567 1575308013
+2.
+ Hilfe vom Land oder vom Bund.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+
+\change_deleted 677693567 1575308013
+Abhilfe im internationalen Bereich:
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+
+\change_deleted 677693567 1575308013
+1.
+ Abgesprochene Zusammenarbeit mit anderen Ländern.
+\end_layout
+
+\begin_layout Description
+
+\change_deleted 677693567 1575308013
+2.
+ Hilfe von der EU in Form von Transferleistungen oder Unterstützung beim
+ Aufbau der fehlenden Einrichtungen.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Description
+
+\change_deleted 677693567 1575308013
+Verursacherprinzip Leitlinie in der Umweltpolitik, nach der diejenigen die
+ Kosten der Umweltbelastung und Umweltverschmutzung zu tragen haben, von
+ denen sie herbeigeführt bzw.
+ verursacht wurde.
+ Die direkte Kostenbelastung des Verursachers von Umweltschäden schafft
+ dabei für diesen den Anreiz, schädigende Verhaltensweisen zu verringern
+ oder einzustellen.
+ Die Anwendung des Verursacherprinzips ist in der Praxis jedoch immer dann
+ problematisch, wenn der Verursacher einer Umweltschädigung nicht eindeutig
+ ermittelt werden kann.
+\end_layout
+
+\begin_layout Description
+
+\change_deleted 677693567 1575308013
+Emissionshandel Der Emissionshandel (eigentlich: Handel mit Zertifikaten,
+ die zum Ausstoß einer bestimmten Menge eines Schadstoffes berechtigen,
+ hier: von einer Tonne Kohlendioxid) ist ein Instrument der Klimapolitik,
+ das staatliche Eingriffe (also die Festlegung einer Gesamtmenge von Kohlendioxi
+d, die von allen Teilnehmern des Handelssystem gemeinsam ausgestoßen werden
+ darf) und marktwirtschaftliche Instrumente (die einzelnen Teilnehmer, in
+ der Regel Unternehmen, können die Zertifikate untereinander kaufen und
+ verkaufen) vereinigt.
+ Seit 2005 existiert mit dem Emissionshandel der Europäischen Union für
+ Energie- und Industrieunternehmen das weltweit erste, multinationale derartige
+ System.
+\end_layout
+
+\begin_layout Description
+
+\change_deleted 677693567 1575308013
+BHKW in Blockheizkraftwerk (BHKW) ist eine modular aufgebaute Anlage zur
+ Gewinnung elektrischer Energie und Wärme, die vorzugsweise am Ort des Wärmeverb
+rauchs betrieben wird.
+ Es kann auch Nutzwärme in ein Nahwärmenetz eingespeist werden.
+ Sie nutzt dafür das Prinzip der Kraft-Wärme-Kopplung.
+\end_layout
+
+\begin_layout Description
+
+\change_deleted 677693567 1575308013
+KWK Kraft-Wärme-Kopplung bzw.
+ Wärme-Kraft-Kopplung ist die gleichzeitige Gewinnung von mechanischer Energie,
+ die in der Regel unmittelbar in elektrischen Strom umgewandelt wird.
+\end_layout
+
+\begin_layout Description
+
+\change_deleted 677693567 1575308013
+Energieeffizienz Die Energieeffizienz ist das Verhältnis von Dienstleistungs-,
+ Waren- oder Energieertrag zur zugeführten Energie.
+ Unter Energieeffizienz wird somit also die rationelle Verwendung von Energie
+ verstanden CO2 Zertifikate Der Emissionsrechtehandel, kurz Emissionshandel
+ oder auch Handel mit Emissionszertifikaten, ist ein Instrument der Umweltpoliti
+k mit dem Ziel, Schadstoffemissionen mit möglichst geringen volkswirtschaftliche
+n Kosten zu verringern.
+\end_layout
+
+\begin_layout Description
+
+\change_deleted 677693567 1575308013
+EEG – Umlage Mit der EEG-Umlage wird der Ausbau der Erneuerbaren Energien
+ finanziert.
+ Das funktioniert so: Wer eine Solaranlage oder ein Windrad betreibt, speist
+ den Strom in das Netz ein und erhält dafür eine im Erneuerbare-Energien-Gesetz
+ (kurz: EEG) festgelegte Vergütung.
+ Biotermie
+\end_layout
+
+\begin_layout Description
+
+\change_deleted 677693567 1575308013
+Freileitung Eine Freileitung (auch Überlandleitung) ist eine elektrische
+ Leitung, deren spannungsführende Leiter im Freien durch die Luft geführt
+ und meist auch nur durch die umgebende Luft voneinander und vom Erdboden
+ isoliert sind.
+ Erdkabel Ein Erdkabel ist ein im Erdboden verlegtes elektrisch genutztes
+ Kabel mit einer besonders robusten Isolierung.
+ Erdkabel weisen gegenüber Freileitungen einige Vorteile auf.
+\end_layout
+
+\begin_layout Description
+
+\change_deleted 677693567 1575308013
+HGÜ Die Hochspannungs-Gleichstrom-Übertragung ist ein Verfahren der elektrischen
+ Energieübertragung mit hoher Gleichspannung.
+ Energiespeicherarten Energiespeicher dienen der Speicherung von überschüssiger
+ Energie zur späteren Nutzung.
+ Im Bedarfsfalle wird die Energie zurückgewandelt.
+ 
+\end_layout
+
+\begin_layout Description
+
+\change_deleted 677693567 1575308013
+Bioenergie Bioenergie ist die Technologie, die aus Biomasse universell verwendba
+re Energieformen wie elektrische Energie oder Kraftstoffe gewinnt.
+ Großtechnische Anlagen für Bioenergie werden Biokraftwerk oder Biokraftanlage
+ genannt.
+ Traditionell hat der nachwachsende Rohstoff Holz die größte Bedeutung als
+ Energieträger.
+\change_unchanged
+
+\end_layout
+
+\begin_layout Section
+Außenpolitik
+\change_inserted 677693567 1577121529
+
+\end_layout
+
+\begin_layout Subsection
+
+\change_inserted 677693567 1577122233
+Rahmenbedingungen für eine deutsche Außenpolitik: 
+\end_layout
+
+\begin_layout Subparagraph
+
+\change_inserted 677693567 1577121785
+a.
+ Folgende Gegebenheiten, die nicht oder nur schwer zu beeinflussen sind
+ müssen, dabei Berücksichtigung finden: 
+\end_layout
+
+\begin_layout Enumerate
+
+\change_inserted 677693567 1577122002
+Souveränität.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+
+\change_inserted 677693567 1577121839
+Obgleich Deutschland mit dem 2+4 Vertrag de jure seine volle Souveränität
+ zurückerhalten hat, ist diese Souveränität de facto jedoch nicht gegeben.
+ Bestimmte Regeln des alliierten Besatzungsrechtes bestehen fort, an welche
+ die Bundesrepublik Deutschland vertraglich gebunden ist.
+ Diese umfassen u.a.
+ Truppenbewegungen, Truppenstärken, geheimdienstliche Aktivitäten und Kostenträg
+erschaft für die Stationierung dieser alliierten Truppen.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\change_inserted 677693567 1577122082
+NATO Bündnis.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+
+\change_inserted 677693567 1577121944
+Die Einbindung in das NATO Vertragswerk bindet Deutschland in seiner sicherheits
+politischen Selbständigkeit und zwingt zu militärischen Einsätzen, die weder
+ der militärischen Sicherheit Deutschlands dienen, noch mit dem GG in Einklang
+ stehen.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\change_inserted 677693567 1577122111
+Deutschland im Zentrum Europas.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+
+\change_inserted 677693567 1577121956
+Die zentrale Lage Deutschlands in Europa, die sich in der Vergangenheit
+ als schicksalhaft gezeigt hat, muss ein Kernpunkt deutscher Außenpolitik
+ sein.
+ Dabei kommt es darauf an, stets um den Ausgleich der Interessen auf der
+ Basis einer fairen Kooperation bemüht zu sein.
+ Einseitige, unabgestimmte Entscheidungen können kontraproduktiv sein und
+ müssen vermieden werden.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\change_inserted 677693567 1577122177
+EU.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+
+\change_inserted 677693567 1577124960
+Durch die Verträge von Maastricht und Lissabon ist Deutschland in seinem
+ außen- aber auch in seinem Innenpolitischen Handlungsspielraum eingeschränkt.
+ Die Zielrichtung der EU hin zu einem zentral gelenkten Staatenverbund gilt
+ und nimmt einen immer größeren Raum bei den Entscheidungen im Parlament
+ ein.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\change_inserted 677693567 1577125046
+Unsere östlichen Nachbarn
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+
+\change_inserted 677693567 1577125803
+Ausrichtung 
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Grundsatzstandpunkte
+\change_inserted 677693567 1577127374
+ der Partei Deutsche Mitte
+\change_unchanged
+
+\end_layout
+
+\begin_layout Enumerate
+
+\change_deleted 677693567 1577122804
+Gegen Ausbeutung
+\change_inserted 677693567 1577122877
+Unabdingbare Einhaltung des Völkerrechtes
+\change_unchanged
+
+\end_layout
+
+\begin_layout Enumerate
+
+\change_inserted 677693567 1577123550
+Internationale Beziehungen als Partner auf Augenhöhe 
+\begin_inset Newline newline
+\end_inset
+
+
+\change_deleted 677693567 1577123689
+Globalisierung im Sinne einer Kooperation
+\change_unchanged
+
+\end_layout
+
+\begin_layout Enumerate
+Außenwirtschaftliches Gleichgewicht
+\change_deleted 677693567 1577123634
+
+\end_layout
+
+\begin_layout Enumerate
+Verträge ausschließlich zum gegenseitigen Nutzen
+\end_layout
+
+\begin_layout Enumerate
+Unbedingte Einhaltung des UNO-Gewaltverzichts
+\end_layout
+
+\begin_layout Subsection
+Übergeordnetes Ziel
+\end_layout
+
+\begin_layout Standard
+Das übergeordnete Ziel ist die Wahrung des Lebens und der Natur auf der
+ ganzen Welt.
+\end_layout
+
+\begin_layout Subsection
+Ziele
+\end_layout
+
+\begin_layout Subsubsection
+Souveränität Deutschlands
+\end_layout
+
+\begin_layout Standard
+Grundvoraussetzung einer neu ausgerichteten deutschen Außenpolitik ist Anerkennu
+ng der Souveränität Deutschlands im guten Einvernehmen mit allen Völkern.
+\end_layout
+
+\begin_layout Subsubsection
+Weltweite Offenheit
+\end_layout
+
+\begin_layout Standard
+Grundsätzlich ist deutsche Außenpolitik werteorientiert, weitgehend offen
+ einsehbar und richtet sich aus an den gemeinsamen Interessen aller Völker
+ und Menschen.
+\end_layout
+
+\begin_layout Subsubsection
+Entwicklungsziele
+\end_layout
+
+\begin_layout Standard
+Die Umsetzung der UN-Entwicklungsmillenniumsziele ist unverzichtbarer Bestandtei
+l deutscher Außenpolitik.
+\end_layout
+
+\begin_layout Subsubsection
+Freiheit aller Völker
+\end_layout
+
+\begin_layout Standard
+Die Freiheit aller Völker und der ihnen verpflichteten Regierungen ist ein
+ hohes Ziel; vor allem bei Finanz-, Medien-, Energie- und Gesundheitsfragen.
+\end_layout
+
+\begin_layout Subsubsection
+Weltwährung
+\end_layout
+
+\begin_layout Standard
+Eine nationale Währung darf niemals den Charakter einer Weltwährung annehmen.
+ Vielmehr ist eine neutrale Welt-Austauschwährung unter Kontrolle öffentlicher
+ Institutionen anzustreben.
+\end_layout
+
+\begin_layout Subsubsection
+Einzelverträge
+\end_layout
+
+\begin_layout Standard
+Da Deutsche Mitte ein protektionistisches Wirtschaftssystem mit geregelten
+ Globalisierung mit einer Art von Vollgeld anstrebt, werden auch die wirtschaftl
+ichen Abläufe nach diesem Prinzip durchgeführt werden: Wirtschaftliche Verträge
+ und Absprachen werden mit jedem Land einzeln durchgeführt.
+ So kann man kontrollieren, dass keinem Staat ein Schaden zugeführt wird
+ und den nur optimal möglichen Vorteil bringt.
+\end_layout
+
+\begin_layout Subsubsection
+Internationale Eingebundenheit
+\end_layout
+
+\begin_layout Standard
+Dabei müssen alle Staaten und internationaler Organisationen bei Entscheidungen
+ demokratisch eingebunden und beteiligt werden.
+ Dies gilt auch für internationale und weltweit tätige Einrichtungen die
+ tiefgreifend zu reformierende internationale Gerichtsbarkeit.
+ Eine Machtkonzentration in wenigen Händen lehnt die Deutsche Mitte ab.
+\end_layout
+
+\begin_layout Subsubsection
+Friedensvertrag
+\end_layout
+
+\begin_layout Standard
+Die Deutsche Mitte strebt einen Friedensvertrag für Deutschland an, dafür
+ sucht sie das Miteinander mit allen Völkern; dazu gehört für die Deutsche
+ Mitte auch der Abzug aller fremden Truppen von deutschem Territorium, einschlie
+ßlich aller Nuklearwaffen.
+\end_layout
+
+\begin_layout Subsubsection
+Euro
+\end_layout
+
+\begin_layout Standard
+Die Deutsche Mitte strebt einen Austritt Deutschlands aus der Euro-Zone
+ an.
+ Die Begründung ist in dem Parteiprogramm „Finanzen“ beschrieben.
+\end_layout
+
+\begin_layout Subsubsection
+Geregelte Globalisierung
+\end_layout
+
+\begin_layout Standard
+Die Globalisierung muss allen Menschen, vor allem den notleidenden, zugutekommen
+ – ebenso wie die Regionalisierung.
+ Extreme bei arm und reich sind wieder anzunähern, auch durch bessere globale
+ Gewerkschaftsbeziehungen und Bindungen der Friedensbewegung.
+\end_layout
+
+\begin_layout Subsubsection
+Demokratische Teilhabe
+\end_layout
+
+\begin_layout Standard
+Außenpolitik vers
+\change_inserted 677693567 1578576434
+t
+\change_unchanged
+eht Deutsche Mitte als Friedenspolitik, in der ganzen Welt, Europa und seine
+ Nachbaren, bis Deutschland und seine Nachbarländer, stehen im Mittelpunkt
+ unseres Interesses.
+\end_layout
+
+\begin_layout Subsubsection
+Nachbarstaaten
+\end_layout
+
+\begin_layout Standard
+Die Freundschaft zu unseren Nachbarländern wird Kern der neuen nachbarschaftlich
+ aufgebauten Freundschafts- und Sicherheitsarchitektur.
+\end_layout
+
+\begin_layout Subsubsection
+Wie soll die Bevölkerung über die außenpolitischen Geschehnisse informiert
+ werden
+\end_layout
+
+\begin_layout Standard
+Veröffentlicht werden nur die Berichte mit Quellenangaben.
+ Überprüfung der Inhalte wird durch eine Institution erfolgen, die unabhängig
+ arbeitet.
+ Die Ergebnisse sind transparent und übersichtlich der Bevölkerung zu berichten.
+ Die Mitteilungen der Whistleblower sind genauso sorgfältig zu überprüfen
+\end_layout
+
+\begin_layout Subsubsection
+Umgang mit der Flüchtlingskrise
+\end_layout
+
+\begin_layout Itemize
+Jeder Mensch, der nach Deutschland kommt und Hilfe braucht, bekommt, wenn
+ wir in der Lage sind, eine menschenwürdige Unterstützung.
+\end_layout
+
+\begin_layout Itemize
+Wir werden uns bemühen die Ursachen der Flucht festzustellen und so zu beseitige
+n, dass die Notleidenden Menschen in Ihre Länder zurückkehren können.
+\end_layout
+
+\begin_layout Section
+Energie
+\end_layout
+
+\begin_layout Subsection
+Grundsatzstandpunkte
+\end_layout
+
+\begin_layout Itemize
+nachhaltige, dezentrale und vernetzte Energieversorgung
+\end_layout
+
+\begin_layout Itemize
+naturfreundliche Energiespeicherung
+\end_layout
+
+\begin_layout Itemize
+Energieversorgung darf kein Gegenstand profitorientierten Handels sein.
+\end_layout
+
+\begin_layout Subsection
+Übergeordnetes Ziel
+\end_layout
+
+\begin_layout Standard
+Naturschonende Energieerzeugung, die den Bedarf aller Menschen deckt und
+ für alle bezahlbar ist.
+\end_layout
+
+\begin_layout Subsection
+Einführung
+\end_layout
+
+\begin_layout Standard
+Die Strom und Wärmenetze muss nach Ansicht der Partei in der öffentlichen
+ Hand sein und demokratisch kontrolliert werden.
+ Mit demokratischer Beteiligung der Bevölkerung in regionalen Stadtwerken
+ kann eine naturschonende Energiegewinnung und bezahlbare Energiepreise
+ am besten erzielt werden.
+ Der Zugang zu Energie ist ein Grundrecht.
+ Die Energieversorgung muss jederzeit und flächendeckend gewährleistet sein.
+\end_layout
+
+\begin_layout Subsection
+Energie
+\end_layout
+
+\begin_layout Standard
+Möglichst schneller Ausstieg der naturbelastenden Energiearten, wie Atom,
+ Kohle oder Fracking.
+ Ersatzbeschäftigung für die Belegschaft der geschlossenen Betriebe.
+ 
+\end_layout
+
+\begin_layout Standard
+Förderung naturschonender Energieerzeugung.
+ Förderung der Forschung und Entwicklung dieser Energietechnik.
+ Energieversorgung muss dem Gemeinwohl dienen und der Profitgewinnung entzogen
+ werden Dezentrale Energieversorgung sowie ein Ausbau der Speichersysteme
+ fördern.
+ Bioenergie nur in nachhaltiger Form erzeugen.
+\end_layout
+
+\begin_layout Subsection
+Netzausbau
+\end_layout
+
+\begin_layout Standard
+Netzausbau nach Bedarf erweitern.
+ HGÜ und die Erdkabel nur da einsetzen, wo es nützlicher als Freileitung
+ ist.
+\end_layout
+
+\begin_layout Subsection
+Atomkraftwerke, Entsorgung, Umwelt
+\end_layout
+
+\begin_layout Standard
+Die Suche nach einem Endlager soll auf Basis einer breiten Debatte erfolgen.
+ Einhaltung des Verursacherprinzips im Energiebereich.
+ Die Atomkonzerne müssen die Kosten für die Entsorgung der Atomanlagen tragen.
+ CO2-Emissionszertifikate neu überdenken, anpassen oder abschaffen.
+ Die Suche nach der besten Art der Lagerung des Atommülls kann nur unter
+ Beteiligung der gesamten Öffentlichkeit und aller Betroffenen erfolgen.
+\end_layout
+
+\begin_layout Subsection
+Umsetzung der Energiewende, Finanzierung
+\end_layout
+
+\begin_layout Standard
+Gerechte und transparente Anpassung der Strompreise.
+ Marktwirtschaftliche Regel nur dann anwenden, wenn das der Gesellschaft
+ nützt und keinem schadet.
+ Die Vereinbarungen wie Ökosteuer, Netzentgel-ten, Emissionshandel und das
+ Erneuerbare-Energien-Gesetz werden überarbeitet oder sie entfallen ganz.
+\end_layout
+
+\begin_layout Section
+Inneres
+\end_layout
+
+\begin_layout Subsection
+Beschreibung der 
+\change_deleted 677693567 1574706738
+Tätigkeit des Bundesministeriums des Innern 
+\change_inserted 677693567 1576091517
+Tätigkeit des Bundesministeriums des Innern 
+\change_unchanged
+heute
+\end_layout
+
+\begin_layout Standard
+
+\change_deleted 677693567 1576091695
+Von Migrationspolitik über den Verfassungsschutz bis zur Sportförderung
+ reicht das vielfältige Aufgabenspektrum des Bundesministeriums des Innern
+ (BMI).
+
+\change_unchanged
+ 
+\change_inserted 677693567 1576522276
+Seine vorrangige Aufgabe ist Schaffung und Aufrechterhaltung von Ordnung
+ und Sicherheit zum Schutz seiner Bürger und des gesellschaftlichen Zusammenlebe
+ns.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1576522309
+Dazu gehören der öffentliche Dienst, mit Verwaltung und Polizei, Rettungsdienste
+ und Katastrophenschutz, Verfassungsschutz, Sportförderung und Integration.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1576522615
+Die Kritik der Deutschen Mitte an der heutigen Innenpolitik.
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1576522752
+Die öffentliche Sicherheit wird zunehmend vernachlässigt und führt zur Verunsich
+erung der Bürger-
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1576522848
+Die Instrumentalisierung des Verfassungsschutzes für die Zielsetzungen der
+ Regierung unterhöhlt die Rechtssicherheit
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1576523141
+Die Polizei ist nach Personal und Ausrüstung vernachlässigt und ihre Effektivitä
+t wird so geschwächt
+\end_layout
+
+\begin_layout Standard
+
+\change_deleted 677693567 1576093036
+Seine wichtigste Aufgabe ist der Schutz der Bürger, die innere Sicherheit.
+ Das BMI ist auch zuständig für den öffentlichen Dienst und die Katastrophenhilf
+e.
+ Außerdem regelt es das Protokoll bei Staatsbesuchen und offiziellen Festen.
+\change_inserted 677693567 1576521229
+
+\end_layout
+
+\begin_layout Subsection
+
+\change_inserted 677693567 1576521611
+Die Ziele der Deutschen Mitte für die Innenpolitik
+\end_layout
+
+\begin_layout Subsubsection
+Grundsatzstandpunkte
+\change_inserted 677693567 1576521039
+ der Partei Deutsche Mitte (laut Grundsatzprogramm)
+\change_unchanged
+
+\end_layout
+
+\begin_layout Enumerate
+Zurück zur Rechtsstaatlichkeit und Gewährleistung ausreichender Sicherheit
+ im ganzen Land.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Ausländer in Deutschland sollen so behandelt werden, wie wir Deutsche im
+ Ausland behandelt werden wollen.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Direkte Demokratie, alle weitreichenden Entscheidungen sind per Volksabstimmung
+ zu entscheiden.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Die Erfüllung der Grundbedürfnisse des Volkes werden über die Gewährung
+ eines bedingungslosen Grundeinkommens gewährleistet.
+\change_inserted 677693567 1576521161
+
+\end_layout
+
+\begin_layout Enumerate
+Parlamente sollen ein Spiegelbild der Gesellschaft sein.
+\change_inserted 677693567 1576521184
+
+\end_layout
+
+\begin_layout Subsubsection
+Schwerpunkte deutscher Innenpolitik
+\change_inserted 677693567 1576522259
+ 
+\change_unchanged
+
+\end_layout
+
+\begin_layout Subsubsection
+Aufgaben des BMI
+\change_inserted 677693567 1576093964
+ 
+\change_unchanged
+
+\end_layout
+
+\begin_layout Standard
+Die Aufgaben des Bundesministeriums des Innern sind vielfältig, in ihrer
+ Erledigung spielen außenpolitische Gesichtspunkte zu häufig eine negative
+ Rolle.
+ Gleichzeitig müssen inzwischen zu viele Entscheidungen im Ministerium das
+ Licht der Öffentlichkeit scheuen.
+ Hier ist eine grundsätzliche, ethisch ausgerichtete Neubesinnung notwendig,
+ die ihrerseits neue Orientierungen und Strategien erfordert.
+\end_layout
+
+\begin_layout Standard
+Dafür ist nicht nur das plebiszitäre Element, also die Mitwirkung der Wahlberech
+tigten an politischen Entscheidungen, in Bund und Ländern zielstrebig zu
+ stärken, viel mehr muss das Innenministerium zur Drehscheibe und strategisch
+ arbeitenden Förderinstitution des vielfältigen und höchst verdienstvollen
+ bürgerlichen Engagements für die Gesellschaft werden.
+\end_layout
+
+\begin_layout Standard
+Bei Sicherheitsthemen ist zu gewährleisten, dass nicht im Ministerium solche
+ Kräfte die Oberhand behalten, die im Ergebnis – oder in Einzelfällen gar
+ als kalkulierter Zwischenschritt – eher zur Unsicherheit beitragen.
+ Der Zeitverlust zwischen der polizeilichen Ermittlung einer Straftat und
+ Erhebung der Anklage muss auf zwei Monate gesenkt werden.
+ Auf frischer Tat ertappte Mehrfachtäter müssen in Haft bleiben, die Migranten
+ unter ihnen müssen zurückkehren.
+ Wenn das gegenwärtige Bemühen der Bundesregierungen um Sicherheit auch
+ mitunter missverstanden werden kann als kalkulierte Vorbereitung drohender
+ Notstände, die sich aus Fehlern oder nicht-öffentlichen falschen Strategien
+ in Außen-, Verteidigungs- und Finanzpolitik ergeben, so sind grundlegende
+ Reformen aus einem Guss in allen Bereichen des politischen Lebens der Gesellsch
+aft doch auch ihrerseits sicherheitsbedürftig.
+ Also steht das Bundesinnenministerium hier in besonderer Verantwortung
+ während einer Übergangsphase in eine neue Politik.
+\end_layout
+
+\begin_layout Standard
+In Fragen der Verfassung und der Verfassungsorgane gibt es erheblichen Reformbed
+arf – und auch Korrektur- und Reparaturbedarf.
+\end_layout
+
+\begin_layout Standard
+Religiöse Gefühle dürfen nicht unter dem Deckmantel journalistischer, künstleris
+cher oder Meinungsfreiheit mutwillig verletzt werden.
+\end_layout
+
+\begin_layout Standard
+Deutschland ist christlich geprägt.
+ Andere Religionsgemeinschaften sind in Deutchland willkommen.
+ Die Anerkennung anderer Religionsgemeinschaften im Austausch mit gleichwertigen
+ Verbesserungen für die Lage der Christen in den Herkunftsländern der Migranten
+ wird angestrebt.
+ Ausdrucksformen kultureller Unterschiede dürfen nicht verboten werden,
+ Gesichtsbedeckung hingegen ist mit unserem Verständnis des gesellschaftlichen
+ Miteinanders nicht vereinbar.
+ 
+\end_layout
+
+\begin_layout Standard
+Verfahren zur Einbürgerung sind bei guter Integration zu beschleunigen.
+ Andererseits können Aufenthaltsgenehmigungen und Duldungen entzogen werden,
+ wenn Integration eindeutig und dauerhaft ausbleibt.
+ Ghetto- und Bandenbildung werden zielstrebig und mit ganzen Maßnahmenpaketen
+ auch ressortübergreifend abgebaut, verhindert und bekämpft, Ausländerfeindlichk
+eit und Diskriminierung intensiv bekämpft, auch im Zusammenwirken anderer
+ Ressorts und gemeinsam mit den Bundesländern.
+\end_layout
+
+\begin_layout Subsubsection
+Innere Sicherheit
+\end_layout
+
+\begin_layout Standard
+Die öffentliche Sicherheit ist eine der wichtigsten Aufgaben der Innenpolitik.
+ Dazu gehören sowohl die Sicherheit der Bürgerinnen und Bürger vor Gewalt,
+ Verbrechen und krimineller Übervorteilung verschiedenster Art als auch
+ der Schutz unserer verfassungsmäßigen Ordnung.
+ Denn nur in einer Gesellschaft ohne kriminelle Bedrohung können sich Menschen
+ persönlich und beruflich frei entwickeln und die Grundwerte der Verfa
+\change_inserted 677693567 1576096288
+ 
+\change_unchanged
+ssung im Alltag gelebt werden.
+\end_layout
+
+\begin_layout Standard
+Bei dieser Aufgabe wird das Bundesministerium des Innern (BMI) vom Bundeskrimina
+lamt (BKA), von der Bundespolizei (BPOL), vom Bundesamt für Verfassungsschutz
+ (BfV) und vom Bundesamt für Sicherheit in der Informationstechnik (BSI)
+ unterstützt.
+\end_layout
+
+\begin_layout Standard
+Des weiteren untersteht der Zoll dem BMI.
+ Die Aufgaben der Zollverwaltung (des Zolls) sind: Zölle und verschiedene
+ Bundessteuern zu erheben, Geldforderungen des Bundes und bundesunmittelbarer
+ Körperschaften zu vollstrecken, die Einhaltung der Verbote und Beschränkungen
+ im grenzüberschreitenden Warenverkehr zu überwachen sowie die Verhinderung
+ und Verfolgung von Verstößen.
+\end_layout
+
+\begin_layout Standard
+Den Kriseneinsatz deutscher Polizisten im Ausland lehnen wir ebenso ab wie
+ jegliche Einsätze ausländischer Polizisten in Deutschland.
+ 
+\end_layout
+
+\begin_layout Standard
+Die in Deutschland notwendige Reform des Verfassungsschutzes sieht vor:
+ Die Landesämter bleiben erhalten, werden jedoch der Länderhoheit entzogen
+ und dem Bund unterstellt.
+ Das Amt erhält künftig einen neuen Namen sowie eine wesentlich erweiterte
+ Aufgabenstellung (teilweise im Zusammenwirken mit dem Bundesnachrichtendienst
+ – BND): Internationale Wirtschaftskriminalität im weitesten Sinne, Unterwanderu
+ngsbestrebungen aus dem Ausland sowie grundlegend bevölkerungsfeindliche
+ nationale und internationale politische Bestrebungen werden aufgeklärt
+ und analysiert.
+ Zu ihrer wirksamen Bekämpfung und Überwindung wird die Bundesregierung
+ mit erheblich besserer Ausstattung des völlig überlasteten Gerichtswesens
+ besonders im Bereich des Strafrechts sowie besserer innerer Vernetzung
+ der einzelnen Ministerialressorts und Institutionen neue Wege gehen (Finanzieru
+ng: Verteidigungsetat), (vor allem in der Bildung in Schulen und an Universitäte
+n?).
+ Grundlage für die Erfolgsmessung wird nicht mehr eine Ressorteinteilung
+ sein, sondern die Erfolgsquote und Vernetzungsfähigkeit über alle organisatoris
+chen Grenzen hinweg.
+\end_layout
+
+\begin_layout Standard
+Neben der entschlossenen Bekämpfung von Kriminalität ist es zugleich notwendig,
+ ihre Ursachen zu erkennen und geeignete Gegenmaßnahmen zu ergreifen.
+ Bürgernahe Polizeiarbeit vor Ort ist dabei ebenso wichtig wie schärfstes
+ Vorgehen gegen die grenzüberschreitende und internationale Kriminalität,
+ mit besonderem Augenmerk auf das Tandem Organisierte Kriminalität und Terrorism
+us – mit und ohne staatliche Unterstützung.
+ Hier haben sich in den vergangenen Jahrzehnten einzelne Vorgehensweisen
+ herausgebildet, die einzelne Beamte und Mitarbeiter in Ausnahmefällen schwerste
+n Gewissensproblemen aussetzen können.
+ Diese Entwicklungen sind mit neuer Gesamtstrategie fast aller Ministerialressor
+ts neu zu orientieren.
+\end_layout
+
+\begin_layout Standard
+Zu diesem neuen Ansatz gehören:
+\end_layout
+
+\begin_layout Itemize
+Höchste Priorität für die Bekämpfung krimineller Banden bei null Toleranz
+\end_layout
+
+\begin_layout Itemize
+umfassende Zeugenschutzprogramme
+\end_layout
+
+\begin_layout Itemize
+eine umfassende Strategie zum Schutz für sogenannte „Whistleblower“, das
+ sind Personen, die auf Grund ihrer beruflichen Stellung Zugang zu wichtigen
+ Informationen haben gegen die überall grassierende Korruption
+\end_layout
+
+\begin_layout Itemize
+Null Toleranz bei gewaltsamen Übergriffen.
+
+\change_deleted 677693567 1572892224
+ gegen Minderheiten, vor allem MigrantInnen
+\change_unchanged
+
+\end_layout
+
+\begin_layout Itemize
+Ein Ende der Bemühungen, durch gezielte Öffentlichkeitsarbeit und andere
+ Maßnahmen daran mitzuwirken, dass in den Medien 
+\change_inserted 677693567 1572892561
+kriminelle 
+\change_unchanged
+Übergriffe 
+\change_inserted 677693567 1572892542
+beschönigt werden,
+\change_unchanged
+von Deutschstämmigen gegen Migranten ebenso 
+\change_deleted 677693567 1572892462
+beschönigt werden
+\change_unchanged
+ wie in zahlreichen umgekehrten Fällen.
+\end_layout
+
+\begin_layout Standard
+Immer wichtiger wird dabei die Kooperation der Polizeibehörden in der Europäisch
+en Union, die nicht missbraucht werden dürfen, um bürgerliche Freiheitsrechte
+ und andere Rechtsgüter zu untergraben: Europol, der Schengen-Verbund, die
+ Europäische Polizeiakademie, die Europäische Grenzschutzagentur (FRONTEX)
+ sowie das europäische Netzwerk der Bahnpolizei
+\change_inserted 677693567 1572892895
+ (in der BRD die Bundespolizei)
+\change_unchanged
+ (RAILPOL) sind daraufhin zu überprüfen.
+ Sämtliche deutschen und EU-Programme, die auf Aufstandsbekämpfung abzielen,
+ werden sofort veröffentlicht und beendet.
+
+\change_inserted 677693567 1572893137
+ (Notstandsverordnung?)
+\change_unchanged
+
+\end_layout
+
+\begin_layout Standard
+Um die öffentliche Sicherheit zu gewährleisten, setzt die Bundesregierung
+ auf vorbeugende Maßnahmen.
+ Dabei werden jedoch umfassende Überwachungsmaßnahmen, Profilbildungen und
+ Datensammlungen nicht ausgebaut – und das bisher gesammelte Material rigorosen
+ Prüfungen unterzogen, die gewährleisten, dass eine Beeinträchtigung individuell
+er Rechte und Freiheiten sowie der Demokratie insgesamt daraus nicht erwachsen
+ können.
+ Um jedoch die Arbeit der erwähnten Sicherheitseinrichtungen zu verbessern,
+ werden 
+\change_inserted 677693567 1572893776
+bundes
+\change_unchanged
+l
+\change_deleted 677693567 1572893823
+a
+\change_inserted 677693567 1572893857
+ä 
+\change_unchanged
+nde
+\change_inserted 677693567 1572893791
+r
+\change_deleted 677693567 1572893794
+s
+\change_unchanged
+übergreifende Strukturen, Datenabgleiche etc.
+ verbessert.
+\end_layout
+
+\begin_layout Standard
+Um die Ursachen von Kriminalität zu bekämpfen und Straftaten vorzubeugen,
+ hat die Bundesregierung gemeinsam mit den Ländern das Deutsche Forum für
+ Kriminalprävention (DFK) gegründet, eine gemeinnützige privatrechtliche
+ Stiftung.
+\end_layout
+
+\begin_layout Standard
+Kuratorium und Vorstand vereinen hochrangige Vertreterinnen und Vertreter
+ aus Wissenschaft, Wirtschaft, Kirchen, Wohlfahrtsverbänden, Medien sowie
+ aus sonstigen staatlichen Stellen und fachkundigen Einrichtungen.
+\end_layout
+
+\begin_layout Standard
+Alle hier erwähnten Einrichtungen und deren Agenda kommen grundsätzlich
+ auf den Prüfst
+\change_deleted 677693567 1572893995
+ein
+\change_inserted 677693567 1572893996
+and
+\change_unchanged
+ für eventuellen Reformbedarf im Sinne der bürgerlichen Freiheitsrechte
+ und der Ausrichtung der Arbeit.
+\end_layout
+
+\begin_layout Subsubsection
+Die Polizeien der 
+\change_inserted 677693567 1579544660
+Länder
+\change_deleted 677693567 1572893810
+Länder
+\change_inserted 677693567 1572893810
+ 
+\change_unchanged
+
+\end_layout
+
+\begin_layout Standard
+In der Polizeiarbeit werden seit einigen Jahren verschiedentlich Verfahren
+ zur Erfolgsmessung aus der Privatwirtschaft übernommen, dies wird geändert:
+ Die Polizei orientiert sich an ihren Aufgaben und vor allem an der Bevölkerung
+ – entsprechend differenziert wird das Personal und die Gesamtleistung beurteilt.
+ Die Polizei ist spürbar besser zu bezahlen, innerbetrieblich zu betreuen
+ und personell auszubauen (Refinanzierung: Verteidigungsetat).
+ Innerhalb der Polizeihierarchie wird den Erfahrungen, Anregungen und fachlichen
+ Anliegen des Personals im Außeneinsatz stärker Rechnung getragen, bis hinein
+ in die interne Meinungsbildung des Ministeriums.
+ Unerlässlich ist dabei als Grundlage eine nachhaltige und institutionelle
+ Bestärkung des Vertrauens zwischen Polizei und Bevölkerung.
+\end_layout
+
+\begin_layout Subsubsection
+Organisierte Kriminalität
+\end_layout
+
+\begin_layout Standard
+Es gibt in Deutschland ein gewisses Maß an behördlicher Duldung organisierter
+ Kriminalität (OK) bis hin zu Kooperationen: Kriminalmanagement.
+ Dies ist sofort und in angemessenem Vorgehen zu beenden.
+ (Außen)politische Erwägungen oder geheimdienstliche Erfordernisse dürfen
+ keine Kriterien mehr bilden für Entscheidungen über nebengesetzliche Subkulture
+n.
+ Die mit der OK befassten Einrichtungen werden ausgebaut (Refinanzierung:
+ Verteidigungsetat).
+\end_layout
+
+\begin_layout Subsubsection
+Terrorismus
+\end_layout
+
+\begin_layout Standard
+In diesen Fragen ist die verdeckt arbeitende internationale Politik zu trennen
+ von den tatsächlich staats-unabhängig entstehenden gewaltbereiten Strukturen.
+ Deutschland wird sich in einem angemessen kurzen Zeitraum und international
+ abgestimmt von der bisherigen Politik des Terrormanagement verabschieden
+ – und in enger Kooperation zwischen Aufklärung und Polizeiarbeit auf eigenem
+ Territorium alle bisher daraus abgeleiteten Fehlentwicklungen zügig beseitigen.
+\end_layout
+
+\begin_layout Subsubsection
+BKA
+\end_layout
+
+\begin_layout Standard
+Im Bundeskriminalamt sind Tätigkeiten üblich geworden, die auch für die
+ Arbeit von Nachrichtendiensten typisch sind.
+ Hier wird wieder stärker zu trennen und gleichzeitig besser zu kooperieren
+ sein.
+ Auch hier finden sich Strukturen von Duldung von und Kooperation mit zu
+ verfolgenden kriminellen Handlungsweisen und Täterkreisen, die umgehend
+ zu beenden sind.
+ Grundsätzlich bedarf auch das BKA sowie die entsprechenden LKAs besserer
+ finanzieller Ausstattung (Finanzierung: Verteidigungsetat) und grundlegender
+ Reform im Sinne des Rechtsstaates.
+\end_layout
+
+\begin_layout Subsection
+Gesellschaft
+\end_layout
+
+\begin_layout Standard
+Angesichts mannigfaltiger Krisen, die alle Ministerialressorts betreffen
+ und die Gesellschaft und Menschen immer stärker verunsichern, sind eine
+ Reihe sinnstiftender und reformerischer Ansätze notwendig.
+ Die Parteien sind in Deutschland so stark geworden, dass sie den Verfassungsgru
+ndsatz der „Mitwirkung“ längst verlassen und sich zu einer beherrschenden
+ Kraft der politischen Wirklichkeit aufgeschwungen haben
+\change_inserted 677693567 1573497425
+ (der Generalbundesanwalt und die Generallandesanwälte müssen unabhängig
+ von der Poitik handeln)
+\change_unchanged
+.
+ Dies ist durch geeignete Maßnahmen wieder zurückzudrehen.
+ Denn grundsätzlich soll das gesamte mögliche Engagement der Bürger in die
+ Politik einfließen können, nicht nur einseitig durch eine Organisationengruppe.
+ Alle Bürger müssen gemeinsam den grundsätzlichen Eindruck gewinnen können,
+ dass ihr Land auf dem richtigen Wege ist.
+ Wo dies nicht der Fall ist, sollen reformerische Ansätze breiter diskutiert
+ und bei übergreifendem Konsens auch konsequenter in die Umsetzung befördert
+ werden.
+\end_layout
+
+\begin_layout Subsubsection
+Gesellschaftlicher Zusammenhalt und Ehrenamt
+\end_layout
+
+\begin_layout Standard
+Die freiheitlich-demokratische Grundordnung wird derzeit gestört durch eine
+ politische Praxis, die damit fallweise nicht mehr in Einklang steht.
+ Lippenbekenntnisse und Formulierungen, die wie leere Formeln wirken müssen,
+ helfen hier nicht weiter.
+ Institutionen und Organisationen haben sich angewöhnt, in einem gegenseitig
+ bestätigenden altgewohnten Miteinander mit staatlichen Stellen
+\change_inserted 677693567 1573498100
+,
+\change_unchanged
+ gewünschte und ursprünglich beabsichtigte Ziele nicht mehr zu erreichen,
+ sondern immer häufiger davon zu weit entfernt liegende Kompromisse festzuklopfe
+n.
+ Die Lebenswirklichkeit und individuelle Differenzierung der Gesellschaft
+ führen zu sozialen Inselbildungen, zwischen denen der Austausch oftmals
+ eher schwieriger als leichter wird.
+ Toleranz und Respekt halten mit dieser Differenzierung nicht immer Schritt.
+\end_layout
+
+\begin_layout Standard
+Daher sind alle Organisationen und Schritte vielfältig und differenziert
+ zu unterstützen, die diesen Erscheinungsformen gesellschaftlicher Erstarrung
+ und Zersetzung entgegenwirken können.
+\end_layout
+
+\begin_layout Subsection
+Verfassung
+\end_layout
+
+\begin_layout Standard
+Seit dem Beitritt des früheren DDR-Gebiets zur Bundesrepublik Deutschland
+ ist eine berechtigte Diskussion um die deutsche Verfassung und das Geltungsgebi
+et entstanden.
+ Hier muss eine tatsächlich völlig unabhängige Experten-Kommission Klarheit
+ schaffen.
+ Tatsache bleibt, dass eine Verfassungsreform notwendig erscheint, vor allem,
+ um in Deutschland ethisches Verhalten in allen Bereichen der Politik wieder
+ stärker verfassungsmäßig zu verankern
+\change_inserted 677693567 1573498809
+ (eine Verfassung muss vom Volke ausgehen!)
+\change_unchanged
+.
+\end_layout
+
+\begin_layout Standard
+Eine weitere Kommission ist einzusetzen, um verbindlich zu prüfen und Vorschläge
+ zu erarbeiten, wie die Verankerung ethischen Verhaltens in den Verfassungsorgan
+en nach Struktur und Ausrichtung sichergestellt werden kann.
+ Insbesondere die Möglichkeiten, die in den Modellen der Viergliederung
+ (nach Prof.
+ Johannes Heinrichs) und Dreigliederung (Rudolf Steiner) bereitstehen, sind
+ hier einzubeziehen.
+\end_layout
+
+\begin_layout Standard
+Die Übertragung von Hoheitsrechten an die Europäische Union hat sich als
+ zum Teil hoch problematisch erwiesen – und ist deshalb grundsätzlich zu
+ revidieren.
+ Auch dies kann nur eine tatsächlich völlig unabhängige Expertenkommission
+ bearbeiten und Empfehlungen vorbereiten, die dann Eingang in entsprechende
+ Verfassungsänderungen finden können – und nach Meinung der Deutschen Mitte
+ auch finden sollen.
+\end_layout
+
+\begin_layout Subsubsection
+Verfassungsorgane
+\end_layout
+
+\begin_layout Standard
+In allen Verfassungsorganen hat sich über die letzten Jahrzehnte ein gewisser
+ Schlendrian, ein steter Verlust an Arbeitsqualität, im Sinne der Verfassung
+ eingeschlichen, die dringend der tatsächlich völlig unabhängigen Begutachtung
+ und klaren Beschlussempfehlung zu unterziehen sind:
+\end_layout
+
+\begin_layout Itemize
+der Deutsche Bundestag hat die freie Gewissensentscheidung der Abgeordneten
+ untergraben (lassen) – und trifft immer häufiger Entscheidungen gegen den
+ in Umfragen klar erwiesenen Willen der übergroßen Mehrheit der Wahlberechtigten.
+ Offenbar ist die Furcht vor den Sanktionskräften der Fraktionsführungen
+ größer als vor dem Wähler.
+\end_layout
+
+\begin_layout Itemize
+Der Bundesrat nimmt gerade in Fällen, in denen der Bundestag bereits versagt
+ hat, seine Aufgaben nicht angemessen wahr – und lässt zu, dass der Bundestag
+ durch geschickte Manipulationen des inhaltlichen Gesetzeszuschnitts („Zustimmun
+gsbedürftigkeit“) die Erfüllung des Verfassungsauftrags an den Bundesrat
+ untergräbt.
+\end_layout
+
+\begin_layout Itemize
+In letzter Zeit häufen sich unplanmäßige Wechsel im Amt des Bundespräsidenten.
+ Diese Vorgänge, ihre mediale Begleitung sowie das Verhalten der übrigen
+ Verfassungsorgane beleuchten schlaglichtartig den teilweise problematischen
+ Gesamtzustand der Republik.
+ Künftig ist der Bundespräsident mit 60% der abgegebenen Stimmen der Bundesversa
+mmlung zu wählen.
+\end_layout
+
+\begin_layout Itemize
+Die Bundesregierung überschreitet traditionell regelmäßig ihre Befugnisse,
+ zum Beispiel in einer Art „Vergatterung“ führender Chefredakteure auf einen
+ hoch gefährlichen Europakurs.
+ Die Bundesregierung übertritt inzwischen mit der gewohnheitsmäßigen Lieferung
+ von Kriegswaffen in Krisengebiete – jedoch bei weitem nicht nur dort –
+ die aktuelle Gesetzeslage (Kriegswaffenkontrollgesetz (KrWaffKontrG) und
+ Außenwirtschaftsgesetz AWG)).
+ Die Verwicklung in internationale Terrorszenen führt zu immer abenteuerlicheren
+ politischmilitärischen Engagements, zuletzt gemeinsam mit in Syrien operierende
+n Kampfgruppen, die der „Al-Qaeda“ zugerechnet werden.
+ Dies verletzt ganz eindeutig neben dem Grundgesetz (Art.
+ 26 Abs.
+ 1) auch UN-Bestimmungen (Artikel 1 und 2 der UN-Charta sowie A/RES/ 36/103
+ etc.).
+\end_layout
+
+\begin_layout Itemize
+Insbesondere in den Ministerien haben sich Lobbyisten verschiedentlich völlig
+ überzogene Arbeits- und Einflussmöglichkeiten verschafft.
+ Die Fähigkeit eigenständiger Erstellung von Gesetzesentwürfen wurde dabei
+ ganz oder teilweise beeinträchtigt.
+ Diese Fehlentwicklungen sind unverzüglich zu bereinigen.
+ Es gibt durchaus bessere, vielfältige und erprobte Wege, die berechtigten
+ Anliegen der Zivilgesellschaft in ausgewogener Art und Weise in die Regierungsa
+rbeit einzubeziehen.
+\end_layout
+
+\begin_layout Itemize
+Das Bundesverfassungsgericht ist inzwischen in einer Weise nach politischem
+ Gutdünken personell besetzt und arbeitet solcherart, dass schlussendlich
+ die Verfassung selbst beeinträchtigt werden muss.
+ Hier sind die Besetzungswege sowie der aktuelle Personalbestand zu überprüfen
+ und zu verändern, um Politik-Ferne und Prinzipienfestigkeit wieder zu stärken.
+\end_layout
+
+\begin_layout Itemize
+Die beiden sogenannten nichtständigen Organe Gemeinsamer Ausschuss und Bundesver
+sammlung zeigen entsprechende erhebliche Verkrustungen.
+\end_layout
+
+\begin_layout Subsubsection
+Wahlrechtsreform
+\end_layout
+
+\begin_layout Standard
+Bei Wahlen auf Bundes- und Landesebene soll es möglich werden, Kandidaten
+ verschiedener Parteien zu wählen („panaschieren“) und auch einzelne Kandidaten
+ gezielt zu stärken („kumulieren“).
+\end_layout
+
+\begin_layout Standard
+Der Einsatz elektronischer Mittel zur Stimmabgabe wird wegen Fälschungsanfälligk
+eit dauerhaft verboten.
+\end_layout
+
+\begin_layout Subsubsection
+Direktere Demokratie
+\end_layout
+
+\begin_layout Standard
+In Bund und Ländern sind Mitwirkungsmöglichkeiten der Bevölkerung einheitlich
+ wie folgt zu erleichtern.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Bundesweit
+\emph default
+ gilt:
+\end_layout
+
+\begin_layout Description
+Volksinitiative Mit 100.000 Unterschriften kann dem Bundestag ein Gesetzentwurf
+ vorgelegt werden.
+\end_layout
+
+\begin_layout Description
+Volksbegehren Lehnt der Bundestag die Volksinitiative ab, kann ein Volksbegehren
+ erfolgen.
+ Dafür sind binnen sechs Monaten eine Million Unterschriften vorzulegen.
+ Danach erfolgt binnen vier Wochen eine Volksabstimmung.
+ Deren Beschluss ist bindend.
+\end_layout
+
+\begin_layout Description
+Volksabstimmung Hier entscheidet - wie bei Wahlen - die Mehrheit der abgegebenen
+ Stimmen.
+ Jeder Haushalt bekommt im Vorfeld eine Abstimmungsbroschüre mit wichtigen
+ Informationen und gleichgewichtig aufgeführten Pro- und Contra-Argumenten.
+\end_layout
+
+\begin_layout Standard
+In den 
+\emph on
+Bundesländern
+\emph default
+ gilt:
+\end_layout
+
+\begin_layout Description
+Volksinitiative Mit Unterschriften von 3‰ der Wahlberechtigten kann dem
+ Landtag ein Gesetzentwurf vorgelegt werden.
+\end_layout
+
+\begin_layout Description
+Volksbegehren Lehnt der Landtag die Volksinitiative ab, kann ein Volksbegehren
+ erfolgen.
+ Dafür sind binnen sechs Monaten Unterschriften von 2% der Wahlberechtigten
+ vorzulegen.
+ Danach erfolgt binnen vier Wochen eine Volksabstimmung.
+ Deren Beschluss ist bindend.
+\end_layout
+
+\begin_layout Description
+Volksabstimmung Hier entscheidet - wie bei Wahlen - die Mehrheit der abgegebenen
+ Stimmen.
+ Jeder Haushalt bekommt im Vorfeld eine Abstimmungsbroschüre mit wichtigen
+ Informationen und gleichgewichtig Pro- und Contra-Argumenten.
+\end_layout
+
+\begin_layout Standard
+Die erforderlichen Unterschriften dürfen in offener Sammlung gesammelt werden
+ und bedürfen keiner behördlichen Eintragung, wohl aber behördlicher Prüfung.
+\end_layout
+
+\begin_layout Standard
+Entscheidungen über Kriegsteilnahme außerhalb des Nato-Gebiets, auch passive
+ durch Nutzung der Infrastruktur, können nur noch mit einer Volksabstimmung
+ gefasst werden.
+ Parlamentsbeschlüsse in Bund und Ländern außerhalb des jeweiligen Jahreshaushal
+ts mit direkter oder indirekter Wirkung auf Staatsausgaben in Höhe von mehr
+ als einem Viertel des Gesamthaushalts bedürfen einer Volksabstimmung.
+ Damit wären riesige Finanzzusagen- oder Haftungspakete wie zuletzt zur
+ Stützung des maroden Euro nur noch mit Zustimmung der Bevölkerung möglich.
+ Umgehungsverbote z.
+ B.
+ durch Aufteilung der Finanzpakete gehören dazu.
+\end_layout
+
+\begin_layout Subsection
+Reform der Informationsrechte - Öffentlichkeitsprinzip
+\end_layout
+
+\begin_layout Standard
+Auch ohne Nachweis persönlicher Betroffenheit müssen Verwaltungen ihre Entscheid
+ungen und deren Grundlagen weitgehend im Internet zugänglich machen – wobei
+ nicht verletzt werden dürfen: Bestimmungen zum Schutz der Persönlichkeitsrechte
+, der nationalen Sicherheit, zur Verhinderung von Straftaten etc.
+\end_layout
+
+\begin_layout Subsection
+Zuwendungen an Parteien, parteinahe Stiftungen und Politiker
+\end_layout
+
+\begin_layout Standard
+Wegen einer stattlichen Reihe verschiedenster Skandale sind Zuwendungen
+ an Parteien zu begrenzen auf jährlich:
+\end_layout
+
+\begin_layout Itemize
+30.000 Euro bei Firmen, Stiftungen etc.
+\end_layout
+
+\begin_layout Itemize
+20.000 Euro bei Verheirateten
+\end_layout
+
+\begin_layout Itemize
+10.000 Euro bei Einzelpersonen
+\end_layout
+
+\begin_layout Standard
+Parteien müssen sämtliche Einkünfte oberhalb 500 Euro offenlegen.
+ Die Position „sonstige Einnahmen“ in Rechenschaftsberichten darf 5% der
+ Gesamteinnahmen nicht übersteigen.
+\end_layout
+
+\begin_layout Standard
+Parteien und parteinahe Stiftungen sind strikt zu trennen, so dass die Stiftunge
+n nicht mehr als indirekte Finanzierungsquelle der Parteien wirken können.
+\end_layout
+
+\begin_layout Standard
+Abgeordnete in Bund und Ländern müssen sämtliche Nebeneinkünfte ab 300 Euro
+ offenlegen – oder Senkungen bei Diäten und Aufwandsentschädigungen um die
+ Hälfte akzeptieren.
+ Die Entscheidung jedes Abgeordneten für die eine oder andere der beiden
+ Varianten wird veröffentlicht.
+\end_layout
+
+\begin_layout Standard
+Diäten und Aufwandsentschädigungen sind höchstens entsprechend der allgemeinen
+ Einkommens- und Kostenentwicklung zu erhöhen.
+\end_layout
+
+\begin_layout Standard
+Regierungen in Bund und Ländern sind in der Personalstärke um 20% zu verringern.
+\end_layout
+
+\begin_layout Subsection
+Versammlungsrecht
+\end_layout
+
+\begin_layout Standard
+Das Versammlungsrecht hat in den letzten Jahren zum Teil groteske Versuche
+ erlebt, das Grundgesetz (Versammlungsfreiheit Art.
+ 8 Abs.
+ 1) auszuhebeln.
+ Zulassung und Schutz von Versammlungen sind deutlich zu erleichtern.
+\end_layout
+
+\begin_layout Standard
+Befriedete Bezirke dürfen keinen Vorwand darstellen, Versammlungsfreiheit
+ und Demonstrationsrechte de facto auszuhebeln.
+ Auch einer Bundeskanzlerin und ihren Gästen oder entsprechend den Ministerpräsi
+denten der Länder ist der Anblick von Demonstranten zuzumuten.
+\end_layout
+
+\begin_layout Subsection
+Staatssymbole
+\end_layout
+
+\begin_layout Standard
+Als Symbol für die erneuerte Zukunftsfähigkeit Deutschlands erhält die Bundesfla
+gge die Farbfolge Gold-Rot-Schwarz.
+ Dies geschieht vor allem in Anlehnung an die ersten Verwendungen, die zum
+ Hambacher Fest (1832) auch dokumentiert sind.
+ Anerkannt werden auch mehrere andere Begründungen.
+ Das Grundgesetz ist entsprechend zu ändern (Art.
+ 22, Abs.
+ 2).
+\end_layout
+
+\begin_layout Subsection
+Staat und Religion
+\end_layout
+
+\begin_layout Subsubsection
+Trennung zwischen Staat und Kirche
+\end_layout
+
+\begin_layout Standard
+Das Grundgesetz in Deutschland sieht keine strikte Trennung zwischen Staat
+ und Kirche vor.
+ Vor allem im steuerlich-finanziellen Bereich ist dies nicht hinnehmbar
+ und deshalb schrittweise zu verändern, um dieser Trennung eine solide Grundlage
+ zu geben.
+ Auch durch diesen Schritt behält und bestärkt Deutschland seine klare,
+ christliche Prägung.
+ Alle Einzelheiten erarbeitet eine tatsächlich völlig unabhängige Kommission.
+\end_layout
+
+\begin_layout Subsubsection
+Kirchenstatus
+\end_layout
+
+\begin_layout Standard
+Auch Kirchen anderer Religionen können anerkannt werden, wegen der hohen
+ Zahl der Gläubigen, vor allem im Bereich des Islam.
+ Auf Grund der teilweise schwierigen Lage christlicher Kirchen im islamisch
+ geprägten Ausland sind in diesem Zusammenhang Rücksichten auf außenpolitische
+ Belange angebracht.
+\end_layout
+
+\begin_layout Subsubsection
+Deutsche Islamkonferenz
+\end_layout
+
+\begin_layout Standard
+Die Deutsche Islamkonferenz in ihrer jetzigen Form und Struktur erscheint
+ nicht in allen Punkten als gelungener Ansatz.
+ Vorrangig wichtig bleibt der repressionsfreie Austausch mit allen relevanten
+ Gruppen in repräsentativer Zusammensetzung und ohne gegenseitige Vorbedingungen.
+ Alle Einzelheiten erarbeitet eine tatsächlich völlig unabhängige Kommission.
+\end_layout
+
+\begin_layout Standard
+Die jüdische Glaubensgemeinschaft und alle ihre Mitglieder genießen in Deutschla
+nd besonderen Schutz und Fürsorge.
+ Besondere politische Mitsprache- oder Einflussrechte ergeben sich daraus
+ allerdings nicht.
+\end_layout
+
+\begin_layout Standard
+Scientology kann aus verschiedenen Gründen keinesfalls Kirchenstatus erhalten.
+\end_layout
+
+\begin_layout Subsection
+Politische Bildung
+\end_layout
+
+\begin_layout Standard
+Entsprechend den Verkrustungen in allen Bereichen staatlichen und politischen
+ Wirkens in Deutschland gibt es auch in der Bundeszentrale Politische Bildung
+ (BpB) Gleichschaltungstendenzen.
+ Auch hier erscheinen stärkere Unabhängigkeit und Verantwortungsgefühl wünschens
+wert, um dem dienstlichen Auftrag wieder gerechter zu werden.
+\end_layout
+
+\begin_layout Subsection
+Datenschutz
+\end_layout
+
+\begin_layout Standard
+Der Datenschutz hält mit den ständigen technischen Entwicklungen („Cloud“)
+ kaum noch mit.
+ Hier ist sowohl international als auch national ressort-übergreifend (BSI,
+ BMWi etc.) und mit besserer Kompetenz-Vernetzung dafür zu sorgen, dass Gefährdun
+gen der Privatsphäre gesenkt werden.
+\end_layout
+
+\begin_layout Subsection
+Verwaltung und Öffentlicher Dienst
+\end_layout
+
+\begin_layout Subsubsection
+Korruption
+\end_layout
+
+\begin_layout Standard
+Parallel zur Verschlechterung der gesamten Verfassungs- und Rechtspraxis
+ häufen sich die Fälle von treu dienenden Beamten, die unter zum Teil abenteuerl
+ichen Beschuldigungen oder Rechtskonstruktionen Nachteile erleiden müssen,
+ gerade weil sie im verzweifelten Abwehrkampf bemüht waren, ihre Pflicht
+ auch gegen den Willen korrupter Vorgesetzter zu erfüllen.
+\end_layout
+
+\begin_layout Standard
+Auch hier ist durch eine tatsächlich völlig unabhängige Kommission zu prüfen,
+ welche rechtlichen und praktischen Schritte ergriffen werden können, um
+ die Leistungen der Beamten aller Ebenen vor allen möglichen Einflussnahmen
+ durch Vorgesetzte sowie aus Politik und Wirtschaft besser zu schützen.
+\end_layout
+
+\begin_layout Subsubsection
+Privatisierungen öffentlicher oder staatlicher Aufgaben
+\end_layout
+
+\begin_layout Standard
+Staatliche Aufgabenbereiche wie Bahn, Gesundheitswesen und Wasserversorgung
+ – aber auch Sicherheitsbereiche mit Polizeiaufgaben – sollen nach dem Wunsch
+ verschiedener Großkonzerne privatisiert werden, dies lehnt die Deutsche
+ Mitte eindeutig ab.
+ Übergangsweise wurden dafür Modelle der Zusammenarbeit eingerichtet: „Public
+ Private Partnership“, die damit überprüfungswürdig erscheinen.
+ Effizienzsteigerungen bleiben selbstverständlich ein wichtiges Anliegen
+ und Motor sinnvoller Veränderungen überall dort wo Leistungen erbracht
+ werden.
+ Gerade im Bereich der Bahn wie bei der Wasserversorgung häufen sich jedoch
+ die Beispiele, die geraten erscheinen lassen, diese Aufgaben auch künftig
+ staatlich oder kommunal erfüllen zu lassen, um erhebliche Qualitätseinbußen
+ oder Kostensteigerungen für die Kunden und die Gesellschaft zu vermeiden.
+ Wasser ist ein Menschenrecht, keine Handelsware! Im Bereich der Wissenschaft
+ gerät mitunter mit negativen Folgen für die Gesundheit das technische Niveau
+ in Gefahr.
+\end_layout
+
+\begin_layout Subsubsection
+Bürokratieabbau
+\end_layout
+
+\begin_layout Standard
+Dieses wichtige Thema darf nicht dazu führen, dass der Staat seine Aufgaben
+ nicht mehr angemessen wahrnimmt.
+\end_layout
+
+\begin_layout Subsection
+IT und Netzpolitik
+\end_layout
+
+\begin_layout Subsubsection
+Grundsätze
+\end_layout
+
+\begin_layout Standard
+Über die letzten Jahrzehnte haben sich weltweit Oligopole gebildet, die
+ wichtige technische Mittel der modernen Informations- und Kommunikationsgesells
+chaft im globalen Maßstab beherrschen – und dabei gewaltige Gewinne erwirtschaft
+en.
+ Dies wäre nicht möglich gewesen, wenn die Politik hier nicht vielfach Hilfestel
+lung gegeben hätte.
+ Inzwischen ist bekannt, dass weltweit alle Firmen in bestimmten Bereichen
+ Abkommen zur Datenüberlassung mit zuständigen Behörden geschlossen haben
+ – oder die Überlassung stillschweigend bewirken.
+\end_layout
+
+\begin_layout Standard
+Es ist jedoch von grundlegender Bedeutung, dass einzelne Bürger ihre Information
+sverarbeitung und Kommunikation jederzeit voll kontrollieren können.
+ Es ist genau diese Freiheit aller BürgerInnen, die Machtkonzentrationen
+ in diesen Bereichen verhindern sollen.
+ Dabei geht es nicht allein um den Schutz der Privatsphäre, die ja in vorelektro
+nischen Zeiten noch als hoch schützenswertes Gut erschien und seitdem besorgnise
+rregend stark gelitten hat, sondern geradezu um den Schutz der bürgerlichen
+ Freiheit, der derzeit nicht mehr gewährleistet erscheint.
+\end_layout
+
+\begin_layout Subsubsection
+Offene Standards
+\end_layout
+
+\begin_layout Standard
+Offene Standards bilden die unerlässliche Grundlage für die freie Wahl von
+ Systemen durch die Nutzer, die damit ihre Daten dauerhaft frei verwenden
+ können müssen.
+ Ein freier Markt der Systeme kann nur dort entstehen, wo alle technischen
+ Systeme bei gleicher Funktionalität austauschbar werden – dies können sie
+ jedoch nur, wenn sie eine voll funktionsfähige Schnittstelle zu einem völlig
+ offenen und allgemein gebräuchlichen Standard bieten.
+\end_layout
+
+\begin_layout Standard
+Ein offener Standard ist ein Protokoll oder Format, das
+\end_layout
+
+\begin_layout Itemize
+vollständig, öffentlich und ohne Einschränkungen gleichmäßig allen Nutzern
+ in jeder gewünschten Weise zur Verfügung steht, soweit sie andere Nutzer
+ nicht einschränkt,
+\end_layout
+
+\begin_layout Itemize
+keine Bestandteile oder Erweiterungen enthält oder erfordert, die ihrerseits
+ nicht der Festlegung unter 4.2.1.
+ entsprechen, .
+ keinerlei technischen und/oder rechtlichen Einschränkungen unterliegt,
+ die seine Verwendung in irgendeiner Weise einschränken,
+\end_layout
+
+\begin_layout Itemize
+unabhängig von einzelnen Herstellern geleitet und weiterentwickelt wird,
+ in einem offenen Prozess, der allen Marktteilnehmern gleichberechtigt und
+ gleichermaßen offensteht,
+\end_layout
+
+\begin_layout Itemize
+gleichermaßen vollständig frei mit und ohne Nutzung durch Hersteller zur
+ Verfügung steht.
+\end_layout
+
+\begin_layout Subsubsection
+Freie Software
+\end_layout
+
+\begin_layout Standard
+ür die möglichst rasche und ungehinderte Entwicklung der Wissensgesellschaft
+ ist es unerlässlich, dass die Erstellung von Software gefördert wird, die
+ von allen Nutzern frei und uneingeschränkt verwendet, erforscht, verbreitet
+ und verändert werden kann.
+ Nur eine derart freie Software gewährleistet ihren Anwendern die notwendige
+ volle Kontrolle über ihre technischen Systeme.
+ Und es ist diese vollständige Kontrolle, die allein gewährleistet, dass
+ Unabhängigkeit und Privatsphäre der Nutzer gewährleistet bleibt.
+\end_layout
+
+\begin_layout Subsubsection
+Staatliche und öffentliche Einrichtungen
+\end_layout
+
+\begin_layout Standard
+Bildungseinrichtungen aller Stufen und Ausrichtungen, aber auch alle übrigen
+ staatlichen oder öffentlichen Verwaltungen und Einrichtungen sind gehalten,
+ in definierten Schritten auf offene Standards und freie Software umzustellen
+ – als wesentliche Grundlage für Freiheit und Selbstbestimmung ganzer Staaten
+ und/oder Staatengruppen – von möglichen Kostensenkungen ganz abgesehen.
+\end_layout
+
+\begin_layout Subsubsection
+Reform des Urheberrechts
+\end_layout
+
+\begin_layout Standard
+Die örtlich und zeitlich unabhängige Verfügbarkeit von Daten aller Art legt
+ einen Reformbedarf des Urheberrechts nahe, das in seinen überkommenen Vorstellu
+ngen nicht zur Entwicklungsbremse werden darf.
+ Dabei ist insbesondere das nicht auf Gewinnstreben ausgerichtete Kopieren
+ weitgehend zu erleichtern.
+\end_layout
+
+\begin_layout Standard
+Im kommerziellen Bereich sind Perversionen des Urheberrechts bei den rechtlich
+ und aus Gründen des Umweltschutzes höchst bedenklichen gentechnischen Entwicklu
+ngen in geeigneter internationaler Abstimmung zu überwinden.
+\end_layout
+
+\begin_layout Standard
+Außerdem sind regelrechte Entwicklungsblockaden dort aufzubrechen, wo mächtige
+ Patentinhaber in der Lage sind, globale Märkte zu beeinflussen.
+\end_layout
+
+\begin_layout Subsection
+Migration und Integration
+\end_layout
+
+\begin_layout Standard
+In der Geschichte haben weltweit größere Zuwanderungsbewegungen die neuen
+ Heimatländer in ihrer Entwicklung oftmals stark befördert.
+\end_layout
+
+\begin_layout Standard
+Die Bundesrepublik Deutschland ist ein Einwanderungsland.
+ Jede Bundesregierung muss weit besser als bisher die Entwicklung der einheimisc
+hen Bevölkerung vorrangig fördern.
+ Offensichtliche Versäumnisse in der Familienpolitik dürfen nicht auf Dauer
+ durch Einwanderung „demographisch wettgemacht“ werden.
+\end_layout
+
+\begin_layout Standard
+Einwanderung darf grundsätzlich die Mittel für die Einfügung der hoffnungsvollen
+ Einwanderer in die für sie neue Gesellschaft nicht übersteigen.
+ Gleichzeitig darf Einwanderung nicht die Fähigkeiten der Einwanderer, sich
+ in ihre neue Umgebung einzufügen, überfordern.
+\end_layout
+
+\begin_layout Standard
+Andererseits darf Einwanderung auch nicht die grundsätzliche Fähigkeit einer
+ Gesellschaft überstrapazieren, die Einwanderer freundlich aufzunehmen.
+ Und schließlich müssen der sinnvolle Schutz der kulturellen Herkunftsidentität
+ im weitesten Sinne und der notwendige Schutz der aufnehmenden Kultur ein
+ für alle Beteiligten möglichst erfüllendes gemeinsames Miteinander eingehen.
+\end_layout
+
+\begin_layout Standard
+Die Beachtung dieser und weiterer Zusammenhänge soll auch in Europa stärker
+ Fuß fassen.
+\end_layout
+
+\begin_layout Subsubsection
+Zuwanderungsplanung
+\end_layout
+
+\begin_layout Standard
+Für Zuwanderung muss ein bundesweiter Gesamtplan erstellt werden, der auch
+ Herkunfts- und Qualifikationskriterien sowie entsprechende Maßstäbe enthalten
+ muss, um Ungleichgewichte und Schwierigkeiten möglichst schon vor der Einreise
+ auszuschließen.
+ Strategische Zuwanderungsplanung ist ein unerlässlicher Schlüssel für späterhin
+ erfolgreiche Integration.
+\end_layout
+
+\begin_layout Subsubsection
+Integration
+\end_layout
+
+\begin_layout Standard
+Das bewährte Mittel der Integrationskurse ist auszubauen, um mehr Teilnehmer
+ schneller absolvieren zu lassen.
+\end_layout
+
+\begin_layout Standard
+In der Ansiedlungspolitik sind zunächst im bundesweiten aber auch im europäische
+n Bereich Maßstäbe zu entwickeln und flächendeckend durchzusetzen.
+ Diese müssen geeignet sein, die Geschwindigkeit und Nachhaltigkeit der
+ Integration zu steigern.
+ Die Konzentration von Zuwanderern in abseits gelegenen Ausländerheimen
+ oder ganzen Ausländervierteln in unseren Großstädten kann dies sicherlich
+ nicht leisten.
+\end_layout
+
+\begin_layout Standard
+Die deutschstämmige Gesellschaft muss auf die neuen Mitbürger ebenso vorbereitet
+ werden wie die Zuwanderer auf ihre für sie neue Umgebung in Deutschland.
+ Diese Tatsache muss stärker als bisher Eingang in alle Medienveröffentlichungen
+, Bildungseinrichtungen und Bildungsgänge finden.
+ Wo Zuwanderung nicht als Bereicherung empfunden wird, sind Konflikte ebenso
+ unausweichlich programmiert wie dort, wo Kenntnisse über die neue Umgebungsgese
+llschaft nicht als Beitrag zur persönlichen Fortentwicklung erkannt werden.
+ Deutschland kann unter anderem seine Spitzenposition im globalen Export
+ nur dauerhaft erhalten, wenn diese Aufgaben rasch erfolgreich gelöst werden,
+ abgesehen von den ungleich wichtigeren Erwägungen zu einem zugewandten
+ menschlichen Miteinander in der Gesellschaft.
+\end_layout
+
+\begin_layout Subsubsection
+Optionspflicht
+\end_layout
+
+\begin_layout Standard
+Inzwischen konnten mit der Optionspflicht zum Erwerb der deutschen Staatsbürgers
+chaft seit ihrer Einführung im Jahr 2000 Erfahrungen gesammelt werden.
+ Diese sind auszuwerten – zu bewerten und in die weitere politische Entscheidung
+sfindung einzufügen.
+ Grundsätzlich sollte staatsbürgerliche Eindeutigkeit gefördert werden,
+ bei gleichzeitiger Flexibilität für wachsende Zahlen der Wanderungsbewegungen
+ und ebenfalls wachsende Verschiedenartigkeit individueller Lebensplanungen.
+\end_layout
+
+\begin_layout Subsubsection
+Einbürgerung
+\end_layout
+
+\begin_layout Standard
+Grundsätzlich soll die Einbürgerung nach den geltenden Kriterien bereits
+ nach vier Jahren erfolgen können.
+ Wer nach sechs Jahren Aufenthaltsdauer die Kriterien nicht erfüllt, kann
+ nicht in Deutschland bleiben.
+\end_layout
+
+\begin_layout Subsubsection
+Illegale Migration
+\end_layout
+
+\begin_layout Standard
+Illegale Zuwanderung ist entschlossener zu bekämpfen als bisher.
+ In Aufklärung, Überwachung und Handhabung der einzelnen Fälle ist mehr
+ Entschlossenheit (und bessere Ausstattung) notwendig, um den Erfolg legaler
+ Migration nicht zusätzlich zu belasten.
+\end_layout
+
+\begin_layout Subsection
+Neue Länder
+\end_layout
+
+\begin_layout Standard
+Beim Beitritt des DDR-Staatsgebiets zur Bundesrepublik wurde grundsätzlich
+ und an vielen Stellen versäumt, zu untersuchen, zu bewerten und umzusetzen,
+ bewährte Vorgehensweisen und Verfahren aus der DDR in den nun gemeinsamen
+ Staat zu übernehmen.
+ Als geeignetes Symbol und Beispiel für dieses grundsätzliche und umfassende,
+ bedauernswerte Versäumnis mag der grüne Rechtsabbieger-Pfeil gelten, der
+ eine weitaus häufigere Verwendung im alten Bundesgebiet finden könnte.
+ Diese Versäumnisse sind jetzt nicht mehr ohne weiteres nachzuholen.
+ Doch gibt es durchaus Möglichkeiten, im Zuge der inzwischen vielfach notwendig
+ gewordenen Reformen, Bewährtes einzufügen, auch auf Anregung sinnvollen
+ bürgerlichen Engagements.
+\end_layout
+
+\begin_layout Subsection
+Bevölkerungsschutz
+\end_layout
+
+\begin_layout Standard
+Das Technische Hilfswerk (THW) ist ein hervorragendes Beispiel für eine
+ gute Idee, die auch im Ausland sehr gut ankommt.
+ An manchen bisherigen Einsatzgebieten der Bundeswehr könnte das THW sich
+ als geeigneter erweisen, einen Beitrag für Frieden, Aufbau und internationale
+ Zusammenarbeit zu leisten als dies Soldaten vermögen – bei aller Würdigung
+ einzelner Leistungen der Bundeswehr.
+ Als sinnvolle Ergänzung einer wieder auf Wehrpflicht umgestellten Verteidigungs
+politik, die den Namen verdient, als fester Bestandteil des Gesamtangebots
+ für ein durch jeden Schulabsolventen abzuleistendes Soziales Jahr, könnte
+ das THW auch Ersatzdienstleistende aufnehmen, vor allem solche, die sich
+ für technische Berufe und praktische Anwendungen interessieren.
+\end_layout
+
+\begin_layout Subsection
+Sport
+\end_layout
+
+\begin_layout Standard
+Die Dopingbekämpfung des Bundes lässt zu wünschen übrig.
+ Nach manchen Jahren und Debatten ist das Thema auch in Deutschland nicht
+ vom Tisch.
+ Hier ist nach Maßgabe der zahlreich und auf hohem Niveau vorhandenen Experten
+ grundsätzlich ein Kulturwandel herbeizuführen.
+ Die Stärkung der Spitzensportler mit rein natürlichen und völlig unschädlichen
+ Methoden ist zu verbessern.
+ Gleichzeitig ist durch geeignete Maßnahmen die öffentliche und individuelle
+ Wahrnehmung darauf zu lenken, dass in einer Welt mit immer noch häufigem
+ Dopingeinsatz und immer noch mangelhafter Dopingbekämpfung nicht der Medaillene
+rfolg Beurteilungsgrundlage sein kann, sondern vor allem die ehrlich erbrachte
+ Leistung.
+\end_layout
+
+\begin_layout Section
+Jus
+\change_inserted 677693567 1574702304
+t
+\change_unchanged
+i
+\change_deleted 677693567 1578581803
+t
+\change_unchanged
+z
+\end_layout
+
+\begin_layout Subsection
+Beschreibung der Tätigkeit des Bundesministeriums der Justiz und für Verbraucher
+schutz
+\end_layout
+
+\begin_layout Standard
+Das Fundament freiheitlich-demokratischer Ordnung ist das Recht.
+ Verantwortlich für die Rechtspolitik ist das Bundesministerium der Justiz
+ und für Verbraucherschutz (BMJV).
+ Als Verfassungsressort überprüft das BMJV, ob neue Gesetzes- und Verordnungsent
+würfe mit dem Grundgesetz vereinbar sind.
+ Es beteiligt sich an der Gesetzgebung für das Bürgerliche Recht, das Handels-
+ und Wirtschaftsrecht, das Strafrecht und die Prozessrechte.
+\end_layout
+
+\begin_layout Subsection
+Grundsatzstandpunkte
+\end_layout
+
+\begin_layout Itemize
+Unabhängigkeit der Gerichtsbarkeit
+\end_layout
+
+\begin_layout Itemize
+Die Bundesstaatsanwaltschaft, darf kein politisches Amt sein
+\end_layout
+
+\begin_layout Itemize
+Rechtsfindung unter Einbeziehung der Bevölkerung optimieren
+\end_layout
+
+\begin_layout Subsection
+Ziele
+\end_layout
+
+\begin_layout Itemize
+Recht darf kein Privileg der Wohlhabenden oder Mächtigen sein.
+ Gerechtigkeit soll vor Gericht siegen.
+\end_layout
+
+\begin_layout Itemize
+Ausbau des Justizwesens
+\end_layout
+
+\begin_layout Itemize
+weniger machtpolitischer Einfluss
+\end_layout
+
+\begin_layout Itemize
+mehr richterliche Unabhängigkeit
+\end_layout
+
+\begin_layout Itemize
+neue, ethische Richterwahlverfahren für Bundesgerichte
+\end_layout
+
+\begin_layout Itemize
+schnellere Verfahren
+\end_layout
+
+\begin_layout Itemize
+Reform des Strafrechts
+\end_layout
+
+\begin_layout Itemize
+weniger strenge Bestrafung von Kleinstkriminalität
+\end_layout
+
+\begin_layout Itemize
+weniger Haftstrafen, insbesondere bei Familien????
+\end_layout
+
+\begin_layout Itemize
+Bürgerrechte und –Schutz sind deutlich zu stärken
+\end_layout
+
+\begin_layout Section
+Verbraucherschutz
+\end_layout
+
+\begin_layout Subsection
+Beschreibung der Tätigkeit des Bundesministeriums für Justiz und Verbraucherschu
+tz
+\end_layout
+
+\begin_layout Standard
+Das Fundament freiheitlich-demokratischer Ordnung ist das Recht.
+ Verantwortlich für die Rechtspolitik ist das Bundesministerium der Justiz
+ und für Verbraucherschutz (BMJV).
+ Als Verfassungsressort überprüft das BMJV, ob neue Gesetzes- und Verordnungsent
+würfe mit dem Grundgesetz vereinbar sind.
+ Es beteiligt sich an der Gesetzgebung für das Bürgerliche Recht, das Handels-
+ und Wirtschaftsrecht, das Strafrecht und die Prozessrechte.
+\end_layout
+
+\begin_layout Subsection
+Grundsatzstandpunkte
+\end_layout
+
+\begin_layout Itemize
+alle Produkte und Inhalte müssen transparent und prüfbar gekennzeichnet
+ sein
+\end_layout
+
+\begin_layout Itemize
+Stichprobenhafte staatlich organisierte anonymisierte Prüfung aller Produkte
+\end_layout
+
+\begin_layout Itemize
+nachhaltige, naturnahe, ressourcenschonende und obsoleszensfreie Produktion
+ von Produkten ist zu fördern
+\end_layout
+
+\begin_layout Subsection
+Ziele
+\end_layout
+
+\begin_layout Itemize
+Recht auf natürliche und gesunde Lebensmittel
+\end_layout
+
+\begin_layout Itemize
+Schrittweise Umstellung auf ökologische, pestizid-und gentechnikfreie Landwirtsc
+haft (Mindeststandard: Bioland); dies geschieht freiwillig und mit finanzieller
+ Förderung
+\end_layout
+
+\begin_layout Itemize
+junge Menschen helfen dabei, in ihrem sozialen/ökologischen Jahr und erlernen
+ so den Bezug zur Natur
+\end_layout
+
+\begin_layout Itemize
+Förderung unabhängiger, regionaler Agrarproduktion in Familienbetrieben
+ und Genossenschaften
+\end_layout
+
+\begin_layout Itemize
+Landwirte sollen ohne EU-Diktat handeln und die volle Ernährungssouveränität
+ zurückerhalten
+\end_layout
+
+\begin_layout Itemize
+jeder volljährige Bürger erhält das Recht, ein kostenloses Grundstück mit
+ einer Größe von 400 m² als Privateigentum zu erhalten und frei zu bewirtschafte
+n (=> 9,1% der Landesfläche)
+\end_layout
+
+\begin_layout Itemize
+Förderung nachhaltiger Land-und Forstbewirtschaftung, die sich an der Biodiversi
+tät orientiert
+\end_layout
+
+\begin_layout Itemize
+Schutz und Regeneration von Böden mit nachhaltigem Humusaufbau und der Bienenvöl
+ker als natürliche Lebensgrundlage
+\end_layout
+
+\begin_layout Itemize
+ganzjährige grüne Bedeckung aus nutzbaren Pflanzen wird erste Regel der
+ Landwirtschaft
+\end_layout
+
+\begin_layout Itemize
+Bewahrung und Förderung altbewährten Saatgutes und dezentraler Saatguterzeugung
+\end_layout
+
+\begin_layout Itemize
+keine Patentrechte auf Lebewesen oder Samen
+\end_layout
+
+\begin_layout Itemize
+der Nahrungsmittelstandard Codex Alimentarius wird nachhaltig und ökologisch
+ ausgerichtet
+\end_layout
+
+\begin_layout Itemize
+die Zulassung für gentechnisch veränderte Pflanzen widerspricht aktuellen
+ wissenschaftlichen Erkenntnissen und ist deshalb abzulehnen
+\end_layout
+
+\begin_layout Itemize
+die Haftung aller Beteiligten bei Prüf-und Zulassungsverfahren muss ebenso
+ zur Pflicht werden, wie die positive Kennzeichnung gentechnisch veränderter
+ Produkte.
+ Wir fordern artgerechte Tierhaltung und Fütterung und somit Abschaffung
+ der derzeitigen Massentierhaltung
+\end_layout
+
+\begin_layout Itemize
+sämtliche Umstellungen in enger Abstimmung mit allen Beteiligten.
+ Naturgüter gehören nicht in Konzernhände!
+\end_layout
+
+\begin_layout Itemize
+öffentliche Versorgung mit gesundem Trinkwasser für alle
+\end_layout
+
+\begin_layout Itemize
+Lobby-Eingriffe in Verbraucher- und Naturschutz werden verboten
+\end_layout
+
+\begin_layout Itemize
+die Unabhängigkeit der Forschung wird bestärkt und kontrollier
+\change_deleted 677693567 1574706581
+t
+\change_inserted 677693567 1574705326
+
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
+\begin_layout Section
+Familie, Senioren, Frauen und Jugend
+\end_layout
+
+\begin_layout Subsection
+Beschreibung der Tätigkeit des Bundesministeriums für Familie, Senioren,
+ Frauen und Jugend heute
+\end_layout
+
+\begin_layout Standard
+Die Familie steht unter besonderem Schutz der staatlichen Ordnung – so steht
+ es im deutschen Grundgesetz.
+ Das Bundesministerium für Familie, Senioren, Frauen und Jugend (BMFSFJ)
+ fördert Kinder, ihre Eltern und stärkt die Solidarität unter den Generationen.
+ Auf der politischen Agenda stehen auch Gleichstellung, Zivildienst oder
+ Wohlfahrtspflege.
+\end_layout
+
+\begin_layout Subsection
+Grundsatzstandpunkte
+\end_layout
+
+\begin_layout Itemize
+die Familie ist die kleinste soziale Einheit einer Gesellschaft, welche
+ im besonderen Maße zu fördern ist
+\end_layout
+
+\begin_layout Itemize
+die Entwicklung von Kindern der Jugend zum mündigen Staatsbürger wollen
+ wir besonders fördern
+\end_layout
+
+\begin_layout Itemize
+menschenwürdiger Umgang mit Senioren und Pflegebedürftigen
+\end_layout
+
+\begin_layout Subsection
+Übergeordnetes Ziel
+\end_layout
+
+\begin_layout Standard
+Das Ziel lautet, alle Kinder gleich gut zu unterstützen.
+ Das Existenzminimum soll zuverlässig abgesichert ist.
+ Kinderfreundliche Gesellschaft und Erhalt des Staatsvolkes.
+\end_layout
+
+\begin_layout Subsection
+Förderung der Familie
+\end_layout
+
+\begin_layout Itemize
+großzügige Förderung von Familien mit Kindern, auch durch kostenlose Paar-,
+ Eltern-und Familienberatung
+\end_layout
+
+\begin_layout Itemize
+Adoptionen nur als gut begründete Ausnahmen, vor allem bei leiblichen Kindern
+\end_layout
+
+\begin_layout Itemize
+mehr Unterstützung für junge Mütter
+\end_layout
+
+\begin_layout Itemize
+wir wollen die Familienförderung verstärken
+\end_layout
+
+\begin_layout Itemize
+Der steuerliche Kinderfreibetrag soll auf das Niveau der Freibetrags für
+ Erwachsene angehoben werden
+\end_layout
+
+\begin_layout Itemize
+Wenn beide Eltern zwischen 75 und 90 Prozent einer regulären Vollzeitstelle
+ arbeiten, erhalten sie jeweils 150 Euro im Monat
+\end_layout
+
+\begin_layout Itemize
+Die Zahlung dieses neuen Familiengelds, das das Elterngeld Plus ersetzen
+ soll, ist auf zwei Jahre begrenzt
+\end_layout
+
+\begin_layout Itemize
+Kindergeld und Kinderzuschlag sollen zusammengeführt und nach Einkommen
+ und Kinderzahl gestaffelt werden
+\end_layout
+
+\begin_layout Itemize
+Ein Kinderbonus soll das Ehegattensplitting ablösen
+\end_layout
+
+\begin_layout Itemize
+für bestehende Ehen soll die derzeitige Regelung auf Wunsch aber weiter
+ gelten
+\end_layout
+
+\begin_layout Itemize
+Sämtliche Leistungen für Bildung, Kinderbetreuung und Erziehung sowie Mobilität,
+ Kultur und Freizeitangebote sollen für Kinder kostenfrei angeboten werden
+\end_layout
+
+\begin_layout Itemize
+Alleinerziehende sollen besonders gefördert, der Unterhaltsvorschuss bis
+ zum 18.
+ Lebensjahr des Kindes oder dem Ausbildungsabschluss gezahlt werden
+\end_layout
+
+\begin_layout Itemize
+Zwei Jahre finanzielle Unterstützung für Eltern, wenn sie ihre Arbeitszeit
+ reduzieren, um sich um ihre Kinder zu kümmern
+\end_layout
+
+\begin_layout Itemize
+Einführung von Kindergeld 2.0 einführen, dass die bisherigen Sozialleistungen
+ für Kinder wie Kindergeld, Betreuungsgeld, Unterhaltsvorschuss und Bildungsguts
+cheine ersetzen soll
+\end_layout
+
+\begin_layout Itemize
+Traditionelle Familie aus Vater, Mutter und Kindern soll finanziell gefördert
+ werden
+\end_layout
+
+\begin_layout Itemize
+Längerer Anspruch auf das Arbeitslosengeld für Eltern
+\end_layout
+
+\begin_layout Itemize
+Ehe-Start-Kredit einführen
+\end_layout
+
+\begin_layout Subsubsection
+Ehegattensplitting
+\end_layout
+
+\begin_layout Standard
+Statt des Ehegattensplittings Familien mit Kindern fördern.
+ Familiensplitting mit Freibeträgen für jedes Familienmitglied einführen.
+\end_layout
+
+\begin_layout Subsection
+Kindergeld
+\end_layout
+
+\begin_layout Itemize
+50% mehr Kindergeld, zusätzlich erhalten Eltern nach aktuellen Maßstäben
+ 5.000 € für das erste Kind, je 10.000 € für jedes weitere Kind
+\end_layout
+
+\begin_layout Itemize
+alle Leistungen sind anrechnungsfrei und pfändungssicher
+\end_layout
+
+\begin_layout Standard
+Das Kindergeld in einem ersten Schritt um 25 Euro steigen.
+ Eigenständige Kindergrundsicherung in Höhe von 573 Euro.
+ Als Zwischenschritt auf dem Weg dorthin soll das Kindergeld auf 328 Euro
+ steigen.
+ Das neue Familien-Budget enthält drei Reformelemente: 1.
+ Das bisherige Kindergeld und die Kinderfreibeträge will die Partei durch
+ eine neue Einführung einer Kindergrundsicherung die unabhängig vom Einkommen
+ ist.
+ Eltern mit geringen Einkommen bekommen einen Kindergeldbonus.
+ Das Kindergeld 2.0 ist nur für die Kinder bestimmt.
+\end_layout
+
+\begin_layout Subsection
+Familie
+\end_layout
+
+\begin_layout Itemize
+die Deutsche Mitte fördert Großfamilien und Mehrgenerationsgemeinschaften,
+ in denen ältere Menschen geachtet werden und in der Gemeinschaft ihren
+ Wünschen und Fähigkeiten entsprechend Aufgaben bis zu ihrem Lebensende
+ erfüllen.
+\end_layout
+
+\begin_layout Itemize
+Senioren werden auf Wunsch besser betreut, mit mehr Personal und deutlich
+ besserer Alterssicherung
+\end_layout
+
+\begin_layout Itemize
+Finanzielle Entlastung für Familien
+\end_layout
+
+\begin_layout Itemize
+KiTa-Plätze für alle Kinder ab drei Jahren
+\end_layout
+
+\begin_layout Subsection
+Zusammenleben
+\end_layout
+
+\begin_layout Standard
+Wir respektieren die unterschiedlichen Formen des Zusammenlebens.
+\end_layout
+
+\begin_layout Subsection
+Ehe
+\end_layout
+
+\begin_layout Standard
+Ehe für alle.
+ Einführung einer Verantwortungsbereitschaft neben der klassischen "Ehe".
+ Im Fall einer Scheidung, sollen die Folgen eheliches Fehlverhalten stärker
+ berücksichtigt werden.
+\end_layout
+
+\begin_layout Subsection
+Gleichberechtigung
+\end_layout
+
+\begin_layout Itemize
+„Gender Mainstreaming“, die Gleichmachung der Geschlechter, wird nicht mehr
+ gefördert; gleichwohl sind Mann und Frau Träger gleicher unveräußerlicher
+ Rechte
+\end_layout
+
+\begin_layout Itemize
+Ausweitung der Quotenregelung in großen Unternehmen
+\end_layout
+
+\begin_layout Itemize
+Anspruch, dass Männer und Frauen bei gleicher Arbeit
+\change_deleted 677693567 1578582452
+ sollen
+\change_unchanged
+ gleich verdienen
+\change_inserted 677693567 1578582459
+ sollen
+\change_unchanged
+
+\end_layout
+
+\begin_layout Itemize
+Erklärtes Ziel ist es, Führungsgremien in der Privatwirtschaft und im öffentlich
+en Dienst zu je 50 Prozent mit Männern und Frauen zu besetzen [???]
+\end_layout
+
+\begin_layout Itemize
+Für den gesamten öffentlichen Dienst soll die vorgeschriebene Frauenquote
+ angehoben werden.
+ Das Prinzip "gleicher Lohn für gleiche Arbeit" soll per künftig gesetzlich
+ durchgesetzt werden
+\end_layout
+
+\begin_layout Itemize
+Für Vorstände und Aufsichtsräte aller Unternehmen in Deutschland soll eine
+ Frauenquote von 50 Prozent verbindlich vorgeschrieben werden
+\end_layout
+
+\begin_layout Itemize
+Das Quotengesetz auf 3500 börsennotierte Unternehmen ausweiten.
+\end_layout
+
+\begin_layout Itemize
+Entgeltgleichheitsgesetz für Lohngerechtigkeit für Frauen.
+\end_layout
+
+\begin_layout Itemize
+Die Rechte von Vätern soll gestärkt werden.
+\end_layout
+
+\begin_layout Itemize
+Keine Quotenregelungen für Frauen.
+\end_layout
+
+\begin_layout Subsection
+Schwangerschaft, Geburt
+\end_layout
+
+\begin_layout Itemize
+Förderung der individuellen, spontanen und natürlichen Geburt
+\end_layout
+
+\begin_layout Itemize
+Aufwertung des Berufs der Hebammen
+\end_layout
+
+\begin_layout Subsection
+Frauen
+\end_layout
+
+\begin_layout Standard
+Kein bestimmtes Familienmodell.
+\end_layout
+
+\begin_layout Subsection
+Erziehung
+\end_layout
+
+\begin_layout Standard
+In Gerichtsentscheidungen über die Betreuung der Kinder nach Trennungen
+ und Scheidungen soll Elternteil mindestens ein Drittel der Betreuungszeit
+ übernehmen.
+\end_layout
+
+\begin_layout Subsection
+Betreuung
+\end_layout
+
+\begin_layout Itemize
+ein Rechtsanspruch auf Betreuung von Kindern im Grundschulalter
+\end_layout
+
+\begin_layout Itemize
+ein Rechtsanspruch auf Ganztagsbetreuung bis zum Ende der Grundschule
+\end_layout
+
+\begin_layout Itemize
+Ganztagsbetreuung
+\end_layout
+
+\begin_layout Itemize
+Rechtsanspruch auf Kinderbetreuung
+\end_layout
+
+\begin_layout Itemize
+der Staat soll zudem die Kinderbetreuung durch Eltern in gleicher Weise
+ unterstützen wie Kitas und Tagesmütter
+\end_layout
+
+\begin_layout Subsection
+Berufsausübung
+\end_layout
+
+\begin_layout Itemize
+Frauen erhalten auf Wunsch Hilfe für den Wiedereinstieg in den Beruf
+\end_layout
+
+\begin_layout Itemize
+flexiblere Arbeitszeiten für die Eltern
+\end_layout
+
+\begin_layout Itemize
+Anspruch auf befristete Teilzeit
+\end_layout
+
+\begin_layout Itemize
+Einführung von Familien- und Lebensarbeitszeitkonten
+\end_layout
+
+\begin_layout Itemize
+Leitungspositionen im öffentlichen Dienst gleichberechtigt durch Frauen
+ und Männer besetzten
+\end_layout
+
+\begin_layout Itemize
+Familienarbeitszeit einführen, die Eltern, aber auch Pflegenden, ermöglicht,
+ weniger zu arbeiten
+\end_layout
+
+\begin_layout Itemize
+bis zum sechsten Lebensjahr ihres Kindes sollen Eltern unter einem besonderen
+\end_layout
+
+\begin_layout Itemize
+Kündigungsschutz stehen
+\end_layout
+
+\begin_layout Itemize
+flexible Arbeitszeiten
+\end_layout
+
+\begin_layout Subsection
+Schule, Ausbildung
+\end_layout
+
+\begin_layout Itemize
+bessere Personalausstattung von Erziehungseinrichtungen
+\end_layout
+
+\begin_layout Itemize
+Jugendarbeit vertritt die Interessen der Jugend bei der Entdeckung und Entwicklu
+ng ihrer Persönlichkeit und fördert Selbstorganisation, Eigenaktivität und
+ verantwortungsvolle Teilhabe der Jugendlichen an der Gemeinschaft
+\end_layout
+
+\begin_layout Itemize
+die Kita-Gebühren sollen schrittweise abgeschafft werden
+\end_layout
+
+\begin_layout Subsubsection
+flexiblere Öffnungszeiten für Kitas
+\change_inserted 677693567 1579544789
+
+\end_layout
+
+\begin_layout Section
+
+\change_inserted 677693567 1579545961
+Wirtschaft
+\end_layout
+
+\begin_layout Subsection
+
+\change_inserted 677693567 1580147773
+Wirtschaftspolitik heute:
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1580753314
+Die wirtschaftliche Entwicklung in der BRD wie auch in allen westlichen
+ Industrieländern ist durch eine wachsende Konzentration/Kartellbildung
+ in Industrie und Handel gekennzeichnet, die zu einer länderübergreifenden
+ Aktivität und politischen Einflussnahme dieser Konzerne geführt hat (Globalisie
+rung).
+ Befeuert wird diese Entwicklung durch das weltweit wirksame Finanzsystem,
+ welches über Zentral-und Privatbanken das Geld durch Kreditvergabe erschafft
+ und durch den dadurch entstandenen Zwang zur Gewinnmaximierung und ständigem
+ Wachstum zu einem rücksichtslosen Ressourcenverbrauch und dem zunehmenden
+ Unterschied zwischen arm und reich geführt hat.
+ Der Grundsatz, dass die Wirtschaft den Bedürfnissen der Menschen dienen
+ soll und nicht umgekehrt, ist dabei sehr in den Hintergrund geraten.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1580149097
+Das führt zu einem ständig wachsenden Ressourcenverbrauch (es könnte weniger
+ verbraucht werden), der in erster Linie den Konzernen und nicht dem Gemeinwohl
+ dient.
+\end_layout
+
+\begin_layout Subsection
+
+\change_inserted 677693567 1581355760
+Vorstellungen(Forderungen,Vorhaben) der DM:
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1580150406
+Soziale Marktwirtschaft.
+\end_layout
+
+\begin_layout Subsubsection*
+
+\change_inserted 677693567 1581356574
+Wiederherstellung einer sozialen Marktwirtschaft mit dem Ziel, für jeden
+ Bürger ein Einkommen zu generieren, welches ihm ein selbstbestimmtes Leben
+ ermöglicht.
+ Dazu muss das Verhältnis von Arbeit und Kapital neu gestaltet/definiert
+ werden, in dem Sinn, dass erwirtschafteter Gewinn gerechter verteilt wird.
+ Weiterhin muss das Rentensystem so gestaltet werden, dass das Lebenseinkommen
+ auch im Alter zu einem Leben oberhalb einer „Armutsgrenze“ möglich ist.
+ Der Einfluss des Staates auf das Rentensystem wird reduziert und darf nicht
+ zu Wahlkampfzwecken und politischer Profilierung dienen.
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1580151754
+Wirtschaftsstruktur
+\end_layout
+
+\begin_layout Subsubsection*
+
+\change_inserted 677693567 1581360361
+Das bewährte Modell der mittelständischen, eigentümergeführten Betriebe
+ werden wir stärken und eine kleinteiligere, kooperativere Wirtschaftsstruktur
+ fördern.
+ Dabei streben wir ein ausgewogenes Verhältnis von Kooperation und Wettbewerb
+ an und werden das Genossenschaftsprinzip wieder beleben.
+ Ziel ist die Stärkung eines verantwortungsbewussten, dem Gemeinwohl verpflichte
+ten Unternehmertums.
+ Dieses fördern wir durch eine entsprechende Steuergesetzgebung.
+ Steuerliche Subventionen werden weitgehend vermieden und falls doch bewilligt,
+ zeitlich begrenzt.
+ Grundsätzlich sind alle Unternehmen, die in Deutschland Geschäfte betreiben,
+ angemessen zu besteuern.
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1581360378
+Wirtschaft und Umwelt
+\end_layout
+
+\begin_layout Enumerate
+
+\change_inserted 677693567 1581361370
+Die Befriedigung der menschlichen Bedürfnisse durch wirtschaftliches Handeln
+ ist zwangsläufig mit dem Verbrauch von Ressourcen und Eingriffen in die
+ Natur verbunden.
+ Deshalb unterstützen wir Bemühungen um Ressourcenersparnis und schonenderem
+ Eingriff in die Natur.
+ Das Prinzip der Nachhaltigkeit muss konsequenter umgesetzt werden, auch
+ wenn damit vordergründig wirtschaftliche Vorteile nicht wahrgenommen werden
+ können.
+ Da Umweltschutz und wirtschaftliches Gewinnstreben häufig im Konflikt zueinande
+r stehen, müssen Umweltschutzmaßnahmen von unabhängigen Gremien auf der
+ Basis gesicherter wissenschaftlicher Erkenntnisse getroffen werden.
+ Diese Vorgänge müssen der Öffentlichkeit zugänglich sein.
+\end_layout
+
+\begin_layout Enumerate
+
+\change_inserted 677693567 1579544952
+Wir sorgen für einen fairen Handel im Sinne kooperativer Wirtschaftsstrukturen.
+ Unternehmerisches Handeln muss mit Verantwortung einhergehen.
+ Unternehmen, die sozial, ökologisch, menschenfreundlich und flexibel arbeiten,
+ erhalten finanzielle Erleichterungen.
+ Technologischer Fortschritt soll gesellschaftlich und dauerhaft nutzbar
+ sein.
+\end_layout
+
+\begin_layout Enumerate
+
+\change_inserted 677693567 1580755327
+Einzelwirtschaftliche Gewinnorientierung kann im Widerspruch stehen zu übergeord
+neten Zielen, gesamtwirtschaftlich, gesellschaftlich und ökologisch.
+ Wenn sich ein solcher Widerspruch zeigt, müssen die widerstrebenden Interessen
+ durch geeignete Maßnahmen kanalisiert und ausbalanciert werden.
+ 
+\end_layout
+
+\begin_layout Enumerate
+
+\change_inserted 677693567 1579545051
+Es geht um Fairness.
+ Es darf nicht sein, dass eine Gruppe von Menschen durch eine andere Gruppe
+ ausgebeutet oder unangemessen benachteiligt wird.
+\end_layout
+
+\begin_layout Enumerate
+
+\change_inserted 677693567 1580755464
+Die Gewinne der Unternehmen entstehen durch die Synergie von Arbeit und
+ Kapital, immer sind beide Einsatzfaktoren beteiligt.
+ Daher ist es gerechtfertigt und fair, dass beide Einsatzfaktoren bei der
+ Verteilung des Gewinns berücksichtigt werden.
+ Der Zustand, dass der Gewinn ausschließlich dem Einsatzfaktor Kapital zugeschla
+gen wird, muss beendet werden.
+ 
+\end_layout
+
+\begin_layout Enumerate
+
+\change_inserted 677693567 1579545225
+Durch die Einführung eines bedingungslosen Grundeinkommens können die Spielregel
+n der Verteilung von Unternehmensgewinnen völlig neu strukturiert werden.
+\end_layout
+
+\begin_layout Enumerate
+
+\change_inserted 677693567 1579545566
+Die Deutsche Mitte setzt sich ein für eine größere Solidarität mit und großzügig
+e Hilfen für Kranke, Behinderte und Rentner.
+ Besonders setzen wir uns ein für Familien und Kinder als Kern des gesellschaftl
+ichen Zusammenlebens und Wirtschaftens.
+ Familien erhalten eine großzügige Förderung (siehe „Familie, Senioren,
+ Frauen und Jugend“).
+\end_layout
+
+\begin_layout Enumerate
+
+\change_inserted 677693567 1579545692
+Geplante und eingebaute Produktalterung (Obsoleszenz) wird ein Straftatbestand,
+ die Mindestgarantiefrist wird auf drei Jahre verlängert.
+ So fördern wir Wertarbeit und den Verzicht auf Billigprodukte.
+ Die Produkte sind lange haltbar, umweltfreundlich, praktisch und ungefährlich.
+\end_layout
+
+\begin_layout Enumerate
+
+\change_inserted 677693567 1579545729
+Angemessene Besteuerung von allen Firmen, die in Deutschland, bzw.
+ der EU, Geschäfte betreiben.
+ Dabei spielt es keine Rolle, wo sich der Firmensitz befindet (siehe „Finanzen“).
+ Alle Subventionen haben ein Verfallsdatum.
+\end_layout
+
+\begin_layout Enumerate
+
+\change_inserted 677693567 1579545766
+Technologien und außerirdisches Leben.
+ Wir wollen mehr Schutz vor Spionage und Benachteiligung im Ausland und
+ einen besseren Übernahmeschutz.
+ Die sinnlose internationaler Sanktionspolitik muss beendet werden (siehe
+ „Außenpolitik“).
+ Wir setzen neue Anreize für Superreiche und Großkonzerne, zum Gemeinwohl
+ beizutragen (Mäzenatentum).
+\end_layout
+
+\begin_layout Enumerate
+
+\change_inserted 677693567 1579545766
+Die Deutsche Mitte setzt sich ein für eine größere Solidarität mit und großzügig
+e Hilfen für Kranke, Behinderte und Rentner.
+ Besonders setzen wir uns ein für Familien und Kinder als Kern des gesellschaftl
+ichen Zusammenlebens und Wirtschaftens.
+ Familien erhalten eine großzügige Förderung (siehe „Familie, Senioren,
+ Frauen und Jugend“).
+\end_layout
+
+\begin_layout Enumerate
+
+\change_inserted 677693567 1579545766
+Geplante und eingebaute Produktalterung (Obsoleszenz) wird ein Straftatbestand,
+ die Mindestgarantiefrist wird auf drei Jahre verlängert.
+ So fördern wir Wertarbeit und den Verzicht auf Billigprodukte.
+ Die Produkte sind lange haltbar, umweltfreundlich, praktisch und ungefährlich.
+\end_layout
+
+\begin_layout Enumerate
+
+\change_inserted 677693567 1580755807
+Angemessene Besteuerung von allen Firmen, die in Deutschland, bzw.
+ der EU, Geschäfte betreiben.
+ Dabei spielt es keine Rolle, wo sich der Firmensitz befindet (siehe „Finanzen“).
+ 
+\end_layout
+
+\begin_layout Enumerate
+
+\change_inserted 677693567 1579545766
+Alle Subventionen haben ein Verfallsdatum.
+\end_layout
+
+\begin_layout Enumerate
+
+\change_inserted 677693567 1579545815
+Familienunternehmen, Genossenschaften sowie Mitarbeiterbeteiligung werden
+ ebenso gefördert wie Solidität und Stabilität der Unternehmensfinanzen,
+ auch durch die Bildung stiller Reserven.
+ Wir fördern open-source-Projekte im Sinne einer kooperativen Wirtschaftsordnung
+ sowie regionales Wirtschaften und handwerkliche Eigenproduktion.
+\end_layout
+
+\begin_layout Enumerate
+
+\change_inserted 677693567 1579545896
+Durch Veränderung des Patent- und Markenrechts werden neue Technologien
+ und Erfindungen gefördert und schneller in Produkte umgesetzt.
+ Die Unterdrückung von Erfindungen aus eigensüchtigen Motiven sowie Kartellbildu
+ng werden nicht mehr geduldet und wirksam unterbunden.
+\end_layout
+
+\begin_layout Section
+
+\change_deleted 677693567 1575308550
+Geld- und Wirtschaftssystem
+\change_inserted 677693567 1575308557
+Finanzsystem
+\end_layout
+
+\begin_layout Subsection
+
+\change_inserted 677693567 1575311560
+Das derzeit weltweit wirksame Geld-und Finanzsystem, welches die Geldschöpfung
+ aus dem Nichts in die Hände von Privat- und Zentralbanken gelegt hat, hat
+ eine wirtschaftliche Entwicklung in Gang gesetzt, in der es nicht mehr
+ vorrangig um die Bedarfsdeckung der Menschen, sondern um die Erzielung
+ möglichst hoher Profite geht.
+ Die so entstehende Eigendynamik benötigt ständiges Wachstum mit dem einhergehen
+den ungehemmten Resourcenverbrauch und sie bildet unausweichlich sogenannte
+ „Finanzblasen“, die, wenn sie platzen, großen wirtschaftlichen Schaden
+ anrichten können.
+ Sowohl die ständig beklagte Diskrepanz zwischen Arm und Reich als auch
+ der menschengemachte Einfluß auf das Klima, sind diesem System geschuldet.
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1575311066
+Beschreibung der Tätigkeit des Finanzministeriums heute
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1575310955
+Das Ministerium ist zuständig für die Politikbereiche Öffentliche Finanzen,
+ Steuern, Europa, Internationales bzw.
+ Finanzmarkt, Bundesvermögen und für den Zoll.
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1577730889
+(Quelle:
+\begin_inset CommandInset href
+LatexCommand href
+name "Bundesfinanzministerium"
+target "https://www.bundesfinanzministerium.de/Content/DE/Video/Gebaerden/BMF_Arbeit_Aufgaben/bmf-arbeit-aufgaben-textfassung.html:https://www.bundesfinanzministerium.de/Content/DE/Video/Gebaerden/BMF_Arbeit_Aufgaben/bmf-arbeit-aufgaben-textfassung.html"
+literal "false"
+
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1577730942
+Stand des heutigen Geld- Finanzsystems
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1577731071
+Das heutige Geldsystem ist auf dem Prinzip der Kreditfinanzierten Wirtschaft
+ aufgebaut.
+ Da jeder Kredit zurückgezahlt werden muss, müssen mindestens so viele neue
+ Kredite aufgenommen werden.
+ Weiter müssen Gelder mit zusätzlichen Krediten ersetzt werden, die durch
+ weitere Vorgänge, die man allgemein „Sparen“ nennt, abgezogen wurden:
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1577731166
+Zinsen
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1577731221
+Mieten
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1577731258
+Pachten
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1577731294
+Höhere Gehälter
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1577731403
+Dividenden
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1577731431
+Gewinnbeteiligungen
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1577731762
+Betrug (z.B.
+ Steuerhinterziehung)
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1577731832
+Zahlungsaktuelle Geldmenge heute
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1577732106
+Das dem Volk zur
+\begin_inset Formula $ $
+\end_inset
+
+ Verfügung stehende Geld ist überwiegend durch die Kreditvergabe entstandenes
+ Geld, das noch nicht getilgt wurde.
+ Dieses Prinzip wird fast auf der ganzen Welt angewendet.
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1577732252
+Wirtschaftswachstum heute
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1577732346
+Da neue Kredite nur dann aufgenommen werden, wenn Bedarf besteht, also wenn
+ die Wirtschaft wachsen soll, wird heute das Wirtschaftswachstum als ein
+ notwendiger Faktor für eine funktionierende Wirtschaft angesehen.
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1577732349
+Ungelöste Probleme des heutigen Systems:
+\change_unchanged
+
+\end_layout
+
+\begin_layout Subsection
+Gerechtes Geld
+\change_deleted 677693567 1579544580
+- und Wirtschafts
+\change_unchanged
+syste
+\change_inserted 677693567 1577146540
+m
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_deleted 677693567 1575312539
+m
+\change_inserted 677693567 1579544173
+Einführung eines neuen Geld- Wirtschaftssystems 
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1575312632
+Die Deutsche Mitte möchte ein neues Wirtschaftssystem auf der Basis regionales
+ Wirtschaftens einführen und die Geldschöpfung mit Geldabschöpfung in die
+ Hände des Volkes legen.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1575312532
+Beitrag für andere Völker Finanzprogramm der Deutschen Mitte trägt dazu
+ bei, dass unseres Volk und alle andere Völker im Frieden und ohne Armut
+ leben können.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1577729544
+Beitrag für die Vollbeschäftigung Die Finanzpolitik im Verbund mit der Wirtschaf
+tspolitik haben das Ziel, dass eine ausgewogen Vermittlung zwischen Arbeitsangeb
+ot und Arbeitsnachfrage erfüllt werden kann.
+ Nur überprüfte Informationen mit Quellenangaben veröffentlichen Öffentliche
+ Medien, sind verpflichtet ihre Informationen mit nachvollziehbaren Quellenangab
+en zu unterlegen und bekannt geben, auf welche Art sie diese geprüft haben.
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578582672
+Der automatischen Tilgung der Schulden steht eine nicht automatische und
+ kaum beeinflussbare Schuldenaufnahme gegenüber.
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578582687
+Es besteht keine Möglichkeit das durch zusätzliche Kredite neu aufgenommene
+ Geld in die reale Wirtschaftsabläufe gezielt einzuführen.
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578582706
+Es kann nicht verhindert werden, dass das neue Kreditgeld in die spekulative
+ Bereiche abwandert.
+ - Ständiges Anwachsen der Geldvermögen und Schulden.
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578582722
+Keine Möglichkeit die notwendige Schuldenhöhe zu steuern.
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578582738
+Sinkender Bedarf Schulden aufzunehmen durch Automatisierung und Digitalisierung.
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578582767
+Gefahr einer schrumpfenden Geldmenge, einer Deflation, durch weniger Bedarf
+ an Krediten.
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578582622
+Gefahr einer wachsenden Geldmenge, einer Inflation, durch Zurückführung
+ der gesparten Gelder.
+ Eine Anwendung verschiedenen Arten von Steuern bietet die Möglichkeit das
+ gewonnene Geld im eigenem Land zu behalten.
+ Diese Möglichkeit nützt das heutige System nur unzureichend.
+ Die Folge ist, dass die Kluft zwischen Arm und Reich wächst.
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1575310484
+Grund für die Einführung eines neuen Geld- und Wirtschaftssystems
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1575310484
+Die Tatsache, dass jedes Jahr ca.
+ zehn Millionen Menschen weltweit an Folgen von Hunger sterben und die wachsende
+ Kluft zwischen Arm und Reich in Deutschland sieht die Deutsche Mitte als
+ Anlass, ein neues, Geld- und Wirtschaftssystem einzuführen.
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1575310484
+Das neue, gerechtere Geld- Finanzsystem:
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1578583035
+Das neue Geld- Finanzsystem
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1575310484
+In dem heutigen Zustand empfiehlt sich Einführung einer Art des Vollgeldes,
+ wo die Geldschöpfung und Geldabschöpfung nur durch eine unabhängige Zentralbank
+ die Bedürfnisse des Volkes erfüllt und nicht die der Gewinnstrebung der
+ Geschäftsbanken.
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1578583110
+Aufgaben des neuen Geld- Finanzsystems:
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578583133
+Läuft nach dem Prinzip eines Vollgeldes ab.
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578583145
+Lässt nur eine Art vom Geld zu.
+ (Heute haben wir zwei Arten vom Geld: Zentralbankgeld und Giralgeld).
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578583155
+Die Girokonten befinden sich außerhalb der Bankbilanzen.
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578583167
+Die Geschäftsbanken verwalten nur das angelegte Geld nach Absprache mit
+ den Kontobesitzer.
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578583184
+Das angelegte Geld können die Geschäftsbanken nach marktwirtschaftlichen
+ Regeln so verwalten, dass sie für Gebühren oder Zinsen Geld von den Sparern
+ annehmen und für höhere Gebühren oder Zinsen verleihen.
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578583198
+Den Banken wird ermöglicht, dass sie mit Kreditgebühren oder Zinsen und
+ mit dem dafür gebotenen Kundenservice konkurrieren.
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578583248
+Sämtliche Risiken bleiben bei den Geschäftspartnern (Banken, Geldanleger)
+ und nicht bei dem Steuerzahler.
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578583262
+Die Geldgeschäfte werden nur nach Vereinbarung und auf eigenes Risiko abgeschlos
+sen.
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578583275
+Die unabhängige Zentralbank kann nach Bedarf Kredite an die Geschäftsbanken
+ vergeben, die verzinst werden und zurück gezahlt werden müssen.
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1575310484
+Nationale Währung darf nicht gleichzeitig auch Weltleitwährung sein.
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1578583302
+Ziele des erwünschten Finanzsystems Die Struktur des neuen Finanzsystems
+ soll nach menschendienlichen und sozialen Prinzipien aufgebaut werden,
+ dass es:
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578583368
+allen Menschen einen sicheren Wohlstand bietet,
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578583384
+niemanden schadet,
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578583411
+nicht zulässt, dass sich einige Menschen auf Kosten anderen bereichern,
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578583427
+nachhaltiger Umgang mit der Natur und dem Leben ermöglicht,
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578583439
+mit anderen Ländern so zusammenarbeitet, das es keinem schadet und allen
+ anderen Völkern zum wünschenswerten Lebensstandard beiträgt,
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578583455
+die Staatsfinanzierung nicht von den Schulden abhängig macht,
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578583474
+dass der Import und Export allen Völkern nutzt, und keinem schadet,
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578583523
+ethisch ausgerichtete Unternehmen, Familienunternehmen, Genossenschaften,
+ gemeinnützige Vereine und Stiftungen fördert,
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578583535
+Mitarbeiterbeteiligungen und innerbetriebliche Mittbestimmung, flexibles
+ Arbeitszeitmanagement, Heimarbeit, Teilzeitarbeit, und ausreichende Elternausze
+it von drei Jahren unterstützt,
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578583550
+Friedenspolitik, Bildung, menschengerechte Arbeitsbedingungen und die Bedürfniss
+e der realen Wirtschaft unterstützt,
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578583565
+Wohlhabendere Mittbürger nicht ärmer macht,
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578583580
+Entstehung der Finanzblasen, Inflation und Deflationsgefahren ausschließt,
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578583594
+Subventionen, Ausnahmen, und Sonderregelungen offen darlegt und regelmäßig
+ überprüft,
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578583608
+die Börsengeschäfte so errichtet, dass sie nur der Wirtschaft dienen,
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578583625
+negative Einflüsse von Kartellen ausschließt.
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1575310484
+Schritte der Umsetzung Die Einführung des neuen Geldsystems erfolgt angepasst
+ an den momentanen Zustand der wirtschaftlichen und politischen Lage.
+\end_layout
+
+\begin_layout Subsection
+
+\change_inserted 677693567 1578583759
+Geldschöpfung Ein Vorgang bei dem ein neues Geld erzeugt wird.
+ Es kann erfolgen durch eine unabhängige Institution, wie eine Zentralbank,
+ die Entscheidungen für den Bedarf des Volkes trifft.
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578583781
+Verschenkung des Geldes an die Bevölkerung.
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578583791
+Anpassung der Laufzeiten von Geldanlagen:
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1575310484
+Verkürzung der Mindestlaufzeiten vermindert die Geldmenge oder verlangsamt
+ die Geldzirkulation.
+ 
+\end_layout
+
+\begin_layout Subsection
+
+\change_inserted 677693567 1578583831
+Geldabschöpfung Ist ein Vorgang in dem Geld aus dem Verkehr genommen wird.
+ Es kann erfolgen durch:
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578583934
+Steuerabgabe an den Staat, der das Geld nicht weiter verwendet.
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578583946
+Ausgaben von Staatsanleihen, wo das geliehenes Geld auf eine bestimmte Zeit
+ aus dem Verkehr gezogen wird.
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1575310484
+Anpassung der Laufzeiten von Geldanlagen: Verlängerung der Mindestlaufzeiten
+ vermindert die Geldmenge oder verlangsamt die Geldzirkulation.
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1578584078
+Anpassung der Geldmenge
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578584142
+Die Überwachung der zahlungsaktuellen Geldmenge erfordert in dem neuen Geldsyste
+m eine ständige und ausführliche Analyse der wirtschaftlichen Abläufe um
+ die notwendige Geldschöpfung und Geldabschöpfung durchzuführen.
+ 9.8 Trennbanksystem Eine Einführung eines Trennbanksystems wird nicht mehr
+ notwendig sein.
+ 9.9 Länderausgleich Zusätzliche Finanzierungen wie Länderausgleich kann
+ durch Steuer oder Geldschöpfung finanziert werden.
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1578584155
+BAFin Das Bundesaufsichtsamt für das Finanzwesen BAFin sowie die Rechnungshöfe
+ sind an die neuen Aufgaben anzupassen.
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1578584171
+Weitere Alternativen des neuen Geld- Finanzsystems
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578584183
+Andere Geldsysteme können erst nach einer vollständigeren Aufklärung und
+ Einverständnis des Volkes getestet und eingeführt werden.
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1578584212
+Finanzierung anderen Bereiche
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578584221
+Es werden alle Tätigkeiten die für die Menschen notwendig und realisierbar
+ sind, mit ausreichenden Geldmenge unterstützt:
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578584397
+Infrastruktur,
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578584411
+Einrichtungen, wie Gebäuden, Schulen,
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578584422
+Energieversorgung,
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578584432
+Krankenhäuser,
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578584441
+Alterspflege,
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578584454
+Gesundheitswesen,
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578584467
+Wasserwirtschaft
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578584479
+Bildung für alle,
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1575310484
+usw.
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1578584501
+Entwicklung des neuen Finanz- und Geldsystems
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578584523
+Um die Erwartungen zu erreichen, muss das Finanz- und Geldsystem immer an
+ die sich ändernde wirtschaftliche und politische Lage angepasst werden.
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1578584543
+BGE Um den Mindestwohlstand zu garantieren, führt unsere Partei bei Bedarf
+ ein Bedingtes oder ein bedingungsloses Grundeinkommen ein.
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578584566
+Die Höhe dieses Einkommens wird von der wirtschaftlichen und politischen
+ Situation bestimmt.
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1578584589
+Aufgaben der Geschäftsbanken im Vollgeldsystem
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578585121
+Im Vollgeldsystem müssen die Geschäftsbanken alle Geschäfte und die Gewinne
+ mit selbst erwirtschafteten Vollgeld finanzieren.
+ Die Aufgabe der Geschäftsbanken besteht darin, die wirtschaftliche Aktivitäten
+ zu finanzieren.
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578585130
+Sie sind die Vermittler zwischen den Geldanbietern und den Geldnachfragern.
+ Finanzierungsinstrumente:
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1575310484
+Darlehen, Wertpapieremissionen, Geldanlagen im Kundenauftrag, Verwaltung
+ der Vollgeldkonten nach Vereinbarung mit dem Geldanleger, bargeldloser
+ Zahlungsverkehr.
+ Dieser Vorgang läuft nach marktwirtschaftlichen Regeln ab.
+ 
+\end_layout
+
+\begin_layout Subsection
+
+\change_inserted 677693567 1578586369
+Steuerung der Zahlungsaktuellen Geldmenge
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578586382
+Der Wert (Kaufkraft) des Geldes ergibt sich aus dem Bruttoinlandsprodukt
+ (BIP).
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578585290
+Solange das BIP wächst, muss die Geldbasis mitwachsen.
+ Wenn die Wirtschaft schrumpft, muss der Geldbasis Geld entzogen werden.
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578585267
+Das geschöpfte Vollgeld ist von der Änderung des BIP abhängig.
+ Dieses Geld ist durch die reale Produktivität der Wirtschaft „gedeckt“.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1578585387
+Die vier Staatsgewalten: 
+\end_layout
+
+\begin_layout Enumerate
+
+\change_inserted 677693567 1578585645
+Judikative: Richterliche Gewalt.
+\end_layout
+
+\begin_layout Enumerate
+
+\change_inserted 677693567 1578585650
+Legislative: Parlament als gesetzgebende Gewalt.
+\end_layout
+
+\begin_layout Enumerate
+
+\change_inserted 677693567 1578585445
+Exekutive: Regierung als vollziehende Gewalt.
+\end_layout
+
+\begin_layout Enumerate
+
+\change_inserted 677693567 1578585658
+Monetative: Allein berechtigt das Vollgeld zu schöpfen und für die Kontrolle
+ des umlaufenden Geldes.
+\end_layout
+
+\begin_layout Subsection*
+
+\change_inserted 677693567 1578585707
+Wer vertritt das Interesse des gesamten Volkes
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578585835
+Fachleute,
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578585845
+Medienvertreter,
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578585854
+Arbeitnehmervertreter,
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578585867
+Arbeitgebervertreter,
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578586149
+Politiker,
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578586159
+Volksentscheide,
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578586173
+Volksumfragen,
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578585986
+Bürgerinitiativen
+\end_layout
+
+\begin_layout Subsection*
+
+\change_inserted 677693567 1578586111
+Kapitalverkehrskontrolle
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578586211
+Kapitalverkehrskontrolle dient zu Überwachung des grenzüberschreitenden
+ Geldflusses.
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578585717
+Der Zufluss und Abfluss der eigenen und den fremden Währungen soll so ablaufen,
+ dass er keinem schadet, ständig kontrollierbar und regulierbar bleibt.
+\end_layout
+
+\begin_layout Subsection
+
+\change_inserted 677693567 1578586228
+Mindestlohn.
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1575310484
+Mindestlohn von 1500€ im Monat bezogen auf das Jahr 2017 ermöglicht nach
+ der Meinung der Deutscher Mitte, jedem Bürger eine ausreichende Grundversorgung.
+ 
+\end_layout
+
+\begin_layout Subsection
+
+\change_inserted 677693567 1575310484
+Weitere Bereiche für politische Entscheidungen
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1578586530
+Nachhaltige Politik
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578586548
+Das neu eingeführte soziale und ethische Finanzsystem soll mit seinem Prinzip
+ zu nachhaltigen politischen Handlungen beitragen.
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1578586569
+Soziale Gerechtigkeit
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578586612
+Die bisherige Rentenfinanzierung durch Umlage und Kapitaldeckung erwies
+ sich als nicht berechenbar.
+ Niedrigzinsen und unsichere Steuereinnahmen sind Folgen des heutigen Geldsystem
+s.
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578586588
+Eine sichere Finanzierung erfolgt durch das neue Geld- Finanzsystem.
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1578586801
+Berechenbare Politik
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578586830
+Eine glaubwürdige und vertrauensvolle Politik können nur solche Volksvertreter,
+ die ein notwendiges Grundwissen besitzen, verwirklichen.
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578586840
+Auf dem Gebiet der Finanzen wären das die Kenntnisse der Artikel „Deutsche
+ Mitte erklärt das Geldsystem“ und „Vollgeld “.
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578586768
+Das Prinzip des Geld- und Finanzsystems wird nach der Vorstellung der Deutschen
+ Mitte in allen Schulformen in angepassten Form im Unterricht angeboten.
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1578650473
+Internationale Eingebundenheit
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578586780
+Die erfolgte Umstrukturierung hat die Aufgabe, andere Länder in ihren wirtschaft
+lichen und sozialen Entwicklungen zu unterstützen und nicht als einem „Konkurren
+ten“ schaden.
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1578586914
+Bundeshaushalt und Staatfinanzen
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578586928
+Die notwendige Staatfinanzierung von Bund, Länder und Kommunen werden ständig
+ an den momentanen und langfristigen Bedürfnissen angepasst.
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1578586944
+Steuerung der Geldmenge
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578586956
+Die notwendige Geldmenge wird sowohl durch Geldschöpfung und Geldabschöpfung
+ durch eine Institution, wie eine unabhängige Zentralbank überwacht.
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578586980
+Sie wird nach den Bedürfnissen des Volkes im Rahmen der Möglichkeiten angepasst.
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1578586997
+Schuldenmanagement des Bundes
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578587009
+Eine der Aufgaben des neuen Geld-Finanzsystems ist, dass das Volk über das
+ Geld, seine Schöpfung, Abschöpfung und Anwendung bestimmt.
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578587038
+Daher kann sich das Volk in Form eines Staates in dem neuen Geldsystem nicht
+ verschulden.
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578587048
+Die Abzahlung der Schulden erfolgt durch die Anwendungen der bestehenden
+ Möglichkeiten, wie Steuer oder Geldschöpfung.
+\end_layout
+
+\begin_layout Subsection
+
+\change_inserted 677693567 1578587058
+Die neue Währung und das Ausland
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578587071
+Der Umgang mit anderen Währungen soll so ablaufen, dass keine negativen
+ Folgen in keinem Land auftreten.
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1575310484
+Der Import, Export und andere Geldtransfers sollen mit den anderen Ländern
+ ständig überwacht und an die Bedürfnisse der Völker angepasst werden.
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1575310484
+Steuer und Versicherung
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578650910
+Das heutige Geld-Finanzsystem ermöglicht in fast allen Ländern der Welt
+ den Menschen mit höheren Einkommen das Geld so anzulegen, dass es im eigenem
+ Land fehlt.
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578650929
+Dieses Geld fehlt in dem Wirtschaftsablauf des eigenen Landes.
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578650947
+Gründe des höheren Einkommens:
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578650971
+Mieteinnahmen
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578650983
+Pachteinahmen
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578650996
+Zinseinahmen
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578651008
+Höhere Gehälter
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578651025
+Spekulation
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578651036
+Gewinnbeteiligungen
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578651046
+Dividenden
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578651057
+Betrug (Steuerhinterziehung)
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578651193
+Dieses Geld kann nur ersetzt werden durch die erneute Verschuldung der Wirtschaf
+tsteilnehmer:
+\end_layout
+
+\begin_layout Enumerate
+
+\change_inserted 677693567 1578651241
+Private Haushalte
+\end_layout
+
+\begin_layout Enumerate
+
+\change_inserted 677693567 1578651259
+Unternehmen
+\end_layout
+
+\begin_layout Enumerate
+
+\change_inserted 677693567 1578651269
+Staat
+\end_layout
+
+\begin_layout Subsubsection*
+
+\change_inserted 677693567 1578651278
+Ausland
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578651316
+Das Ersetzen durch immer neuen Krediten verursacht immer weiteres Anwachsen
+ der Geldvermögen und der Schulden.
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1575310484
+2013 betrugen nach Angaben der Bundesbank die Geldvermögen und die Schulden
+ über 8000 Milliarden Euro.
+ In diesem System können die Schulden nur mit neuen Schulden zurückgezahlt
+ werden.
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1578651401
+Einkommensteuer
+\end_layout
+
+\begin_layout Subsubsection*
+
+\change_inserted 677693567 1575310484
+Diese Steuerart kann die notwendige Geldabschöpfung nach Bedarf, sozial
+ gerecht ermöglichen.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578651479
+Besteuerung der Mieteinnahmen
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578651490
+Besteuerung des eigenen Gehaltes oder Lohnes
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578651500
+Besteuerung der Pachteinnahmen
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578651509
+Besteuerung der Zinseinnahmen
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1578651519
+Besteuerung der Spekulationseinnahmen
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted 677693567 1575310484
+Besteuerung der Einnahmen aus Dividenden und Gewinnbeteiligungen
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1575310484
+Die Besteuerung der einzelnen Einnahmen bietet die Möglichkeit die verschiedenen
+ Arten von Einkommen so anzupassen, dass alle gewünschte ethische, soziale
+ wirtschaftliche Forderungen für alle Teile der Bevölkerung erfüllt werden
+ und den wirtschaftlichen Abläufen nicht schaden.
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1578651634
+Erbschaft-Schenkung- und Vermögungssteuer
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578651733
+Deutsche Mitte wünscht jedem Mittbürger ein zufriedenes Leben.
+ Dazu gehört bei vielen auch Reichtum.
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578651747
+Solange dieses Vermögen die wirtschaftlichen Abläufe nicht stören, werden
+ sie auch nicht besteuert.
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1578651761
+Umsatzsteuer
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578651783
+Beim Einkauf der gleichen Produkte zahlen die weniger verdienende genau
+ so viel wie die wohlhabende.
+ Das empfinden wir sozial ungerecht und deshalb sin wir gegen diese Steuer.
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1578651804
+Tobinsteuer
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578651821
+Diese Finanztransaktionsteuer auf internationale Devisengeschäfte hat die
+ Aufgabe eine Spekulation auf Währungsschwankungen einzudämmen.
+ Sie wird nur bei Bedarf eingeführt.
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1578651838
+Sozialversicherung
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1575310484
+Diese Beiträge erfolgen durch die Einkommensteuer, oder durch die Geldschöpfung
+ der öffentlichen Hand.
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1578651848
+Privates Geldvermögen
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578651863
+Die Steuerung der Geldmenge durch Geldschöpfung und Geldabschöpfung bestimmt
+ die Menge des gesparten Geldes und damit die „Höhe des privaten Gelvermögens“
+\end_layout
+
+\begin_layout Subsubsection
+
+\change_inserted 677693567 1578651877
+Verwaltung des Geldvermögens
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578651894
+Überwachung der beiden Geldmengen, außerhalb und in den Bankbilanzen.
+ Vermeidung der Inflation und Deflation durch Anpassung und Steuerung dieser
+ Geldmenge.
+\end_layout
+
+\begin_layout Subsection
+
+\change_inserted 677693567 1575310484
+Einführung der Globalisierung
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578651916
+Die ersten Schritte in die weltweite Globalisierung können nur die Staaten
+ unternehmen, die eine ausreichende steuerbare protektionistische Entwicklung
+ mit geregelten Globalisierung und eine Hoheit über die eigene Währung erreicht
+ haben.
+\end_layout
+
+\begin_layout Subsection
+
+\change_inserted 677693567 1578651928
+Abschluss
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1575310484
+Nach der Auffassung der Deutschen Mitte sind die heutigen weltweiten und
+ innenpolitischen Probleme, wie Armut und wachsende Kluft zwischen Arm und
+ Reich, nur mit einem anderen Geld- und Wirtschaftssystem zu lösen.
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1575310484
+Eine Art von ------------------Vollgeld und regionales Wirtschaften-------------
+------ ------------------mit geregelten Globalisierung------------------
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1575310484
+angepasst an den heutigen wirtschaftlichen Zustand und an die Geld- finanzpoliti
+schen Lage.
+ 
+\change_unchanged
+
+\end_layout
+
+\begin_layout Standard
+Die Deutsche Mitte ist der Auffassung, dass ein friedliches Zusammenleben
+ aller Staaten der Welt nur dann möglich ist, wenn bestimmte Voraussetzungen
+ erfüllt werden:
+\end_layout
+
+\begin_layout Itemize
+die Völker bestimmen im eigenen Land über die Geldschöpfung
+\end_layout
+
+\begin_layout Itemize
+keine Staatsschulden
+\end_layout
+
+\begin_layout Itemize
+geregelte Globalisierung
+\end_layout
+
+\begin_layout Itemize
+kontrollierbarer Außenhandel
+\end_layout
+
+\begin_layout Itemize
+menschenwürdige Lebensverhältnisse
+\end_layout
+
+\begin_layout Itemize
+transparente und wahrhafte Aufklärung der Bevölkerung
+\end_layout
+
+\begin_layout Itemize
+Einhaltung des Völkerrechts
+\end_layout
+
+\begin_layout Standard
+Abhängig von den eingeführten Maßnahmen in den einzelnen Staaten, sind nur
+ bedingten Möglichkeiten einer Zusammenarbeit in einzelnen Bereichen sinnvoll.
+ Als ersten Schritt sieht die Deutsche Mitte
+\change_deleted 677693567 1575310209
+ 
+\change_inserted 677693567 1575310238
+ die
+\change_deleted 677693567 1575310269
+in der 
+\change_unchanged
+Einführung eines neuen Geld- und Wirtschaftssystems.
+\end_layout
+
+\begin_layout Subsection
+Gründe für die Einführung eines neuen Geld- und Wirtschaftssystems
+\end_layout
+
+\begin_layout Standard
+Die Tatsache, dass jedes Jahr ca.
+ zehn Millionen Menschen weltweit an den Folgen von Hunger sterben und die
+ Kluft zwischen Arm und Reich in Deutschland und in der Welt stetig wächst,
+ sind für die Deutsche Mitte Gründe, ein neues Geld- und Wirtschaftssystem
+ einzuführen.
+\end_layout
+
+\begin_layout Subsection
+Einführung eines neuen Geld- Wirtschaftssystems in den Ländern auf der ganzen
+ Welt
+\end_layout
+
+\begin_layout Standard
+Ein neues Finanzsystem nach einem Prinzip der „Geldschöpfung und Geldvernichtung
+ in der öffentlichen Hand“ einführen, dass nur mit dem Wirtschaftssystem,
+ der nach einer protektionistischen Art mit geregelten Globalisierung funktionie
+rendes System bereitstellen kann.
+\end_layout
+
+\begin_layout Subsection
+Stand des heutigen Geld- Finanzsystems in fast allen Ländern weltweit
+\end_layout
+
+\begin_layout Standard
+Das heutige Geldsystem ist auf dem Prinzip der kreditfinanzierten Wirtschaft
+ aufgebaut.
+ Da jeder Kredit zurückgezahlt werden muss, müssen um die zahlungsaktuelle
+ Geldmenge zu erhalten, mindestens so viele neue Kredite aufgenommen werden.
+ Weiter müssen Gelder durch zusätzliche Kredite ersetzt werden, die durch
+ weitere Vorgänge, die man allgemein „Sparen“ nennt, abgezogen wurden:
+\end_layout
+
+\begin_layout Itemize
+Zinsen
+\end_layout
+
+\begin_layout Itemize
+Mieten
+\end_layout
+
+\begin_layout Itemize
+Pachten
+\end_layout
+
+\begin_layout Itemize
+Höhere Gehälter
+\end_layout
+
+\begin_layout Itemize
+Dividenden
+\end_layout
+
+\begin_layout Itemize
+Gewinnbeteiligungen
+\end_layout
+
+\begin_layout Itemize
+Betrug (Steuerhinterziehung)
+\end_layout
+
+\begin_layout Subsection
+Zahlungsaktuelle Geldmenge heute
+\end_layout
+
+\begin_layout Standard
+Das dem Volk zu Verfügung stehende Geld ist überwiegend durch die Kreditvergabe
+ entstandenes Geld, das noch nicht getilgt wurde.
+ Dieses Prinzip wird fasst auf der ganzen Welt angewendet.
+\end_layout
+
+\begin_layout Subsection
+Wirtschaftswachstum heute
+\end_layout
+
+\begin_layout Standard
+Da neue Kredite nur dann aufgenommen werden, wenn Bedarf besteht, also wenn
+ die Wirtschaft wachsen soll, wird heute das Wirtschaftswachstum als ein
+ notwendiger Faktor für eine funktionierende Wirtschaft angesehen
+\end_layout
+
+\begin_layout Subsection
+Ungelöste Probleme dieses Systems
+\end_layout
+
+\begin_layout Standard
+Der automatischen Tilgung der Schulden steht eine nicht automatische und
+ kaum beeinflussbare Schuldenaufnahme gegenüber.
+\end_layout
+
+\begin_layout Itemize
+Es besteht keine Möglichkeit das durch zusätzliche Kredite neu aufgenommene
+ Geld in die reale Wirtschaftsabläufe gezielt einzuführen.
+\end_layout
+
+\begin_layout Itemize
+Es kann nicht verhindert werden, dass das neue Kreditgeld in die spekulative
+ Bereiche abwandert.
+\end_layout
+
+\begin_layout Itemize
+Ständiges Anwachsen der Geldvermögen und Schulden.
+\end_layout
+
+\begin_layout Itemize
+Keine Möglichkeit die notwendige Schuldenhöhe zu steuern.
+\end_layout
+
+\begin_layout Itemize
+Sinkender Bedarf Schulden aufzunehmen durch Automatisierung und Digitalisierung.
+\end_layout
+
+\begin_layout Itemize
+Gefahr einer schrumpfenden zahlungsaktuellen Geldmenge, einer Deflation,
+ durch weniger Bedarf an Krediten.
+\end_layout
+
+\begin_layout Itemize
+Gefahr einer wachsenden Geldmenge, einer Inflation, durch Zurückführung
+ der gesparten Gelder.
+\end_layout
+
+\begin_layout Standard
+Eine Anwendung verschiedenen Arten von Steuern bietet die Möglichkeit das
+ gewonnene Geld im eigenem Land zu behalten.
+ Diese Möglichkeit nützt das heutige System nur unzureichend.
+ Die Folge ist, dass die Kluft zwischen Arm und Reich wächst.
+\change_inserted 677693567 1575308046
+
+\end_layout
+
+\begin_layout Section
+
+\change_inserted 677693567 1575308109
+Anhang
+\end_layout
+
+\begin_layout Subsection
+
+\change_inserted 677693567 1575308114
+Begriffsdefinitionen
+\end_layout
+
+\begin_layout Description
+
+\change_inserted 677693567 1578652299
+Ethik bedeutet für die Deutsche Mitte das Streben nach Frieden, Gerechtigkeit,
+ Solidarität und Bewahrung der natürlichen Lebensgrundlagen.
+\end_layout
+
+\begin_layout Description
+
+\change_inserted 677693567 1575308114
+BGE bedeutet 
+\begin_inset Quotes gld
+\end_inset
+
+Bedingungsloses Grundeinkommen
+\begin_inset Quotes grd
+\end_inset
+
+ und beschreibt ein finanzielles Konzept, nach dem jeder Bürger eine festgelegte
+, vom Staat ausgezahlte finanzielle Zuwendung ohne Gegenleistung erhält.
+\end_layout
+
+\begin_layout Description
+
+\change_inserted 677693567 1575308114
+Globalisierung bezeichnet den Vorgang, in dem internationale Zusammenarbeit
+ in mehreren Bereichen wie Politik, Wirtschaft und Kultur zwischen Staaten,
+ Regionen, Gesellschaften, Institutionen oder Personen stattfindet.
+\end_layout
+
+\begin_layout Description
+
+\change_inserted 677693567 1575308114
+Geregelte Globalisierung Die Umstellung der Wirtschaft auf protektionistische
+ Abläufe auf der internationalen Ebene bringt mit sich die gleichen Auswirkungen
+ wie die Umstellung einer nationalen Wirtschaft auf regionale Abläufe: Es
+ können nicht alle Produkte hergestellt werden und die Dienstleistungen
+ angeboten werden die benötigt werden.
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+
+\change_inserted 677693567 1575308114
+Abhilfe im regionalen Bereich:
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+
+\change_inserted 677693567 1575308114
+1.
+ Abgesprochene Zusammenarbeit mit anderen regionalen Bereichen
+\end_layout
+
+\begin_layout Description
+
+\change_inserted 677693567 1575308114
+2.
+ Hilfe vom Land oder vom Bund.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+
+\change_inserted 677693567 1575308114
+Abhilfe im internationalen Bereich:
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+
+\change_inserted 677693567 1575308114
+1.
+ Abgesprochene Zusammenarbeit mit anderen Ländern.
+\end_layout
+
+\begin_layout Description
+
+\change_inserted 677693567 1575308114
+2.
+ Hilfe von der EU in Form von Transferleistungen oder Unterstützung beim
+ Aufbau der fehlenden Einrichtungen.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Description
+
+\change_inserted 677693567 1578960241
+Verursacherprinzip
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578960045
+Leitlinie in der Umweltpolitik, nach der diejenigen die Kosten der Umweltbelastu
+ng und Umweltverschmutzung zu tragen haben, von denen sie herbeigeführt
+ bzw.
+ verursacht wurde.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1578960072
+Die direkte Kostenbelastung des Verursachers von Umweltschäden schafft dabei
+ für diesen den Anreiz, schädigende Verhaltensweisen zu verringern oder
+ einzustellen.
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1575308114
+Die Anwendung des Verursacherprinzips ist in der Praxis jedoch immer dann
+ problematisch, wenn der Verursacher einer Umweltschädigung nicht eindeutig
+ ermittelt werden kann.
+\end_layout
+
+\begin_layout Description
+
+\change_inserted 677693567 1578960220
+Emissionshandel 
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1575308114
+Der Emissionshandel (eigentlich: Handel mit Zertifikaten, die zum Ausstoß
+ einer bestimmten Menge eines Schadstoffes berechtigen, hier: von einer
+ Tonne Kohlendioxid) ist ein Instrument der Klimapolitik, das staatliche
+ Eingriffe (also die Festlegung einer Gesamtmenge von Kohlendioxid, die
+ von allen Teilnehmern des Handelssystem gemeinsam ausgestoßen werden darf)
+ und marktwirtschaftliche Instrumente (die einzelnen Teilnehmer, in der
+ Regel Unternehmen, können die Zertifikate untereinander kaufen und verkaufen)
+ vereinigt.
+ Seit 2005 existiert mit dem Emissionshandel der Europäischen Union für
+ Energie- und Industrieunternehmen das weltweit erste, multinationale derartige
+ System.
+\end_layout
+
+\begin_layout Description
+
+\change_inserted 677693567 1578960364
+BHKW 
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1579537995
+Ein Blockheizkraftwerk (BHKW) ist eine modular aufgebaute Anlage zur Gewinnung
+ elektrischer Energie und Wärme, die vorzugsweise am Ort des Wärmeverbrauchs
+ betrieben wird.
+ Es kann auch Nutzwärme in ein Nahwärmenetz eingespeist werden.
+ Sie nutzt dafür das Prinzip der Kraft-Wärme-Kopplung.
+\end_layout
+
+\begin_layout Description
+
+\change_inserted 677693567 1579538012
+KWK 
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1575308114
+Kraft-Wärme-Kopplung bzw.
+ Wärme-Kraft-Kopplung ist die gleichzeitige Gewinnung von mechanischer Energie,
+ die in der Regel unmittelbar in elektrischen Strom umgewandelt wird.
+\end_layout
+
+\begin_layout Description
+
+\change_inserted 677693567 1579538034
+Energieeffizienz 
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1575308114
+Die Energieeffizienz ist das Verhältnis von Dienstleistungs-, Waren- oder
+ Energieertrag zur zugeführten Energie.
+ Unter Energieeffizienz wird somit also die rationelle Verwendung von Energie
+ verstanden CO2 Zertifikate Der Emissionsrechtehandel, kurz Emissionshandel
+ oder auch Handel mit Emissionszertifikaten, ist ein Instrument der Umweltpoliti
+k mit dem Ziel, Schadstoffemissionen mit möglichst geringen volkswirtschaftliche
+n Kosten zu verringern.
+\end_layout
+
+\begin_layout Description
+
+\change_inserted 677693567 1579538103
+EEG – Umlage 
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1579538131
+Mit der EEG-Umlage wird der Ausbau der Erneuerbaren Energien finanziert.
+ Das funktioniert so: 
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1575308114
+Wer eine Solaranlage oder ein Windrad betreibt, speist den Strom in das
+ Netz ein und erhält dafür eine im Erneuerbare-Energien-Gesetz (kurz: EEG)
+ festgelegte Vergütung.
+ Biotermie
+\end_layout
+
+\begin_layout Description
+
+\change_inserted 677693567 1579538199
+Freileitung 
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1579538235
+Eine Freileitung (auch Überlandleitung) ist eine elektrische Leitung, deren
+ spannungsführende Leiter im Freien durch die Luft geführt und meist auch
+ nur durch die umgebende Luft voneinander und vom Erdboden isoliert sind.
+ 
+\end_layout
+
+\begin_layout Description
+
+\change_inserted 677693567 1579538241
+Erdkabel 
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1575308114
+Ein Erdkabel ist ein im Erdboden verlegtes elektrisch genutztes Kabel mit
+ einer besonders robusten Isolierung.
+ Erdkabel weisen gegenüber Freileitungen einige Vorteile auf.
+\end_layout
+
+\begin_layout Description
+
+\change_inserted 677693567 1579538396
+HGÜ 
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1579538508
+Die Hochspannungs-Gleichstrom-Übertragung ist ein Verfahren der elektrischen
+ Energieübertragung mit hoher Gleichspannung.
+ 
+\end_layout
+
+\begin_layout Description
+
+\change_inserted 677693567 1579538522
+Energiespeicherarten 
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1575308114
+Energiespeicher dienen der Speicherung von überschüssiger Energie zur späteren
+ Nutzung.
+ Im Bedarfsfalle wird die Energie zurückgewandelt.
+ 
+\end_layout
+
+\begin_layout Description
+
+\change_inserted 677693567 1579538460
+Bioenergie 
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1579538559
+Bioenergie ist die Technologie, die aus Biomasse universell verwendbare
+ Energieformen wie elektrische Energie oder Kraftstoffe gewinnt.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted 677693567 1575308215
+Großtechnische Anlagen für Bioenergie werden Biokraftwerk oder Biokraftanlage
+ genannt.
+ Traditionell hat der nachwachsende Rohstoff Holz die größte Bedeutung als
+ Energieträger.
+\end_layout
+
+\end_body
+\end_document
