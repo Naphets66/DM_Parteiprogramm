@@ -1,4 +1,4 @@
-﻿#LyX 2.3 created this file. For more info see http://www.lyx.org/
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
 \lyxformat 544
 \begin_document
 \begin_header
@@ -44,6 +44,7 @@
 \use_package undertilde 1
 \cite_engine basic
 \cite_engine_type default
+\biblio_style plain
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
@@ -84,7 +85,7 @@ Außenpolitik
 \end_layout
 
 \begin_layout Section
-Rahmenbedingungen für eine deutsche Außenpolitik:
+Rahmenbedingungen für eine echte deutsche Außenpolitik:
 \end_layout
 
 \begin_layout Subsection
