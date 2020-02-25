@@ -7,7 +7,7 @@
 \textclass article
 \use_default_options true
 \maintain_unincluded_children false
-\language english
+\language german
 \language_package default
 \inputencoding auto
 \fontencoding global
@@ -25,13 +25,13 @@
 \use_dash_ligatures true
 \graphics default
 \default_output_format default
-\output_sync 0
+\output_sync 1
 \bibtex_command default
 \index_command default
 \paperfontsize default
 \use_hyperref false
 \papersize default
-\use_geometry false
+\use_geometry true
 \use_package amsmath 1
 \use_package amssymb 1
 \use_package cancel 1
@@ -65,7 +65,7 @@
 \dynamic_quotes 0
 \papercolumns 1
 \papersides 1
-\paperpagestyle default
+\paperpagestyle true
 \tracking_changes false
 \output_changes false
 \html_math_output 0
@@ -263,6 +263,7 @@ Der Staat muss sich auf seine hoheitlichen Aufgaben konzentrieren, wir wollen
 \begin_layout Enumerate
 Wir wollen – auch auf globaler Ebene – einen fairen und ressourcenschonenden
  kooperativen Handel.
+ 
 \end_layout
 
 \begin_layout Subsection
@@ -278,11 +279,8 @@ Die erste und wichtigste Maßnahme ist die Einführung eines Vollgeldsystems.
  Die Bundesbank wird zu einer unabhängigen 4.
  Gewalt im Staate, der sogenannten „Monetative“, ausgebaut.
  Sie ist nur dem Wohle des deutschen Volkes, der Geldwertstabilität und
- der Überwachung des gesamtwirtschaftlichen Gleichgewichtes ver-
-\begin_inset Newline newline
-\end_inset
-
-pflichtet (siehe „Finanzen“).
+ der Überwachung des gesamtwirtschaftlichen Gleichgewichtes verpflichtet
+ (siehe „Finanzen“).
 \end_layout
 
 \begin_layout Subsubsection
@@ -291,11 +289,8 @@ Die zweite Maßnahme besteht in der Abschaffung des Zinses.
  wurden (exponentiell steigende Verschuldung, zunehmende Umverteilung von
  Vermögen und Einkommen von Fleißig nach Reich), aus dem System genommen.
  Und das Finanzsystem kann nicht mehr zusammenbrechen.
- Die Banken werden wieder Finanzdienstleister mit einem veränderten Ge-
-\begin_inset Newline newline
-\end_inset
-
-schäftsmodell, das nicht mehr auf den Zins aufbaut.
+ Die Banken werden wieder Finanzdienstleister mit einem veränderten Geschäftsmod
+ell, das nicht mehr auf den Zins aufbaut.
 \end_layout
 
 \begin_layout Subsubsection
