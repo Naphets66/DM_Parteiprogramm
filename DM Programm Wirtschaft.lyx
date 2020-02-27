@@ -1,0 +1,562 @@
+﻿#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass scrartcl
+\begin_preamble
+\usepackage{lastpage}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{Programm der Deutschen Mitte}
+\rhead{Wirtschaft}
+\rfoot{Seite \thepage \hspace{1pt} von \pageref{LastPage}}
+\lfoot{Autor: AG-Programmgestaltung\newline
+Version: 2.0}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language german
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "biolinum" "default"
+\font_typewriter "cmtl" "default"
+\font_math "auto" "auto"
+\font_default_family sfdefault
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format pdf2
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle false
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 2cm
+\topmargin 2cm
+\rightmargin 2cm
+\bottommargin 2cm
+\headsep 1cm
+\footskip 1.5cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip medskip
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style german
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Parteiprogramm Wirtschaft
+\end_layout
+
+\begin_layout Date
+24.02.2020 Auf Basis Klausurtagung Königswinter 15./16.02.2020
+\end_layout
+
+\begin_layout Author
+(Entwurf von Hans-Herbert Eickholt)
+\end_layout
+
+\begin_layout Section
+Mit welchem systemischen Problem haben wir es in der Wirtschaftspolitik
+ zu tun?
+\end_layout
+
+\begin_layout Subsection
+Das grundlegende Problem der heutigen Wirtschaftspolitik besteht in der
+ Abhängigkeit der Wirtschaft vom bestehenden Geld- und Finanzsystem, das
+ dadurch gekennzeichnet ist, dass Privatbanken das Geld durch Kreditvergabe
+ aus dem Nichts schöpfen („Fiat-Money“).
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Dieses Verfahren etabliert ein Schuldgeldsystem, weil sich bei einem Kredit
+ immer irgendjemand verschulden muss.
+ Der Anteil des von den Zentralbanken geschöpften Geldes ist vernachlässigbar
+ klein (< 10 %).
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Dieses Geld- und Finanzsystem hat weitreichende Folgen für die Wirtschaft:
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+Durch den Zins entsteht ein Zwang zu unendlichem Wachstum.
+ Für die Unternehmen bedeutet dieses System einen Zwang zur Gewinnmaximierung.
+ 
+\end_layout
+
+\begin_layout Subsection
+Daraus entsteht ein rücksichtsloser Ressourcenverbrauch verbunden mit einer
+ Zerstörung der Umwelt.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Am Ende ergibt sich eine zinsgetriebene Umverteilung von Fleißig nach Reich,
+ die zu der bekannten, wachsenden Schieflage der Verteilung von Vermögen
+ und Einkommen führt.
+ 
+\end_layout
+
+\begin_layout Subsection
+Die Deregulierung des internationalen Geld- und Finanzsystems lässt eine
+ ungeregelte Globalisierung wuchern, in der sich der Finanzsektor von der
+ Realwirtschaft entkoppelt und sich zu einem „Finanzkasino“ entwickelt.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Die wachsende weltweite Konzentration der Unternehmen und die Kartellbildung
+ in Industrie und Handel führen zu einer wachsenden politischen Einflussnahme
+ dieser Konzerne auf die Wirtschafts- und Finanzpolitik ganzer Staaten.
+ 
+\end_layout
+
+\begin_layout Subsection
+Dieses Finanz- und Wirtschaftssystem hat tiefgehende Folgen: 
+\end_layout
+
+\begin_layout Subsubsection
+Die Menschen werden in eine Abhängigkeit ihrer Existenz von der Erwerbsarbeit
+ gezwungen.
+ Eine rücksichtslose Globalisierung erzeugt eine wachsende Existenzangst
+ verbunden mit Unfreiheit und Ausbeutung.
+ Mittelständische Betriebe verlieren im Konkurrenzkampf.
+ 
+\end_layout
+
+\begin_layout Subsection
+Der Grundsatz, dass die Wirtschaft den Menschen dienen und ihre Bedürfnisse
+ befriedigen soll, wird nicht eingehalten.
+\end_layout
+
+\begin_layout Subsection
+Was ist die Ursache des Problems? 
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Die Ursache des Problems ist im heutigen Schuldgeldsystem mit Geldschöpfung
+ durch Privatbanken begründet.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Der wesentliche Faktor in diesem System ist der Zins, mit fatalen Folgen:
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Der Zins wird bei der Kreditvergabe und der damit verbundenen Geldschöpfung
+ nicht mit geschöpft.
+ Das bedeutet, dass das Geld zur Zahlung der Zinsen nicht im System existiert
+ und daher in Höhe der Zinsen durch die Aufnahme neuer Kredite erst geschöpft
+ werden muss! 
+\end_layout
+
+\begin_layout Subsubsection
+Für diese Kredite müssen dann aber auch wieder Zinsen gezahlt werden.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Auf diese Weise kommt über den Zinseszinseffekt die exponentiell steigende
+ Kurve der Verschuldung zustande.
+ 
+\end_layout
+
+\begin_layout Subsection
+Eine weitere fatale Folge: 
+\end_layout
+
+\begin_layout Subsubsection
+Die gesamten Zinsen des Systems müssen letztendlich vom Endverbraucher bezahlt
+ werden, weil die Unternehmen ihre Kosten (Zinsen) über die Preise an die
+ Endverbraucher weitergeben (müssen).
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Damit ist der Zins der treibende und einzige Faktor für die Umverteilung
+ von Vermögen und Einkommen von Fleißig nach Reich.
+ 
+\end_layout
+
+\begin_layout Subsection
+Noch eine fatale Folge: Aufgrund der Exponentialfunktion der Verschuldung
+ kann die Realwirtschaft den Zins (die im System zu zahlenden Zinsen) nicht
+ auf Dauer erwirtschaften, denn es kann kein unendliches Wachstum geben.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Das bedeutet: Der Crash des Finanzsystems ist somit im System eingebaut!
+\end_layout
+
+\begin_layout Subsection
+Wo stehen wir heute? 
+\end_layout
+
+\begin_layout Subsubsection
+Eine Situationsbeschreibung des heutigen Finanz- und Wirtschaftssystems
+ muss folgende Symptome auflisten: 
+\end_layout
+
+\begin_layout Itemize
+Die EZB treibt mit ihrer Geldpolitik die Zinsen in den Minusbereich, alle
+ anderen Finanzinstrumente greifen nicht mehr, das Geldsystem ist am Ende,
+ der Crash des Finanzsystems steht kurz bevor.
+ 
+\end_layout
+
+\begin_layout Itemize
+In Deutschland gibt es den größten Niedriglohnsektor in der EU, durch die
+ anstehende Digitalisierung (Industrie 4.0) drohen Massenentlassungen und
+ in der Folge dieser beiden Faktoren droht zunehmende Altersarmut.
+ 
+\end_layout
+
+\begin_layout Itemize
+Es müssen mit immer mehr Krediten immer neue Märkte geschaffen werden.
+ 
+\end_layout
+
+\begin_layout Itemize
+Ausweitung der Zensurgesetze, zunehmende Auslagerung der Gesetzgebung und
+ Rechtsprechung in private Hand.
+ 
+\end_layout
+
+\begin_layout Itemize
+Zunehmender Einfluss von privaten Organisationen, Unternehmen und Lobbyisten
+ auf die Entwürfe und Formulierungen von Gesetzen sowie auf die Initiierung
+ von Gesetzesvorhaben.
+\end_layout
+
+\begin_layout Section*
+Was ist das grundsätzliche Ziel der DM? 
+\end_layout
+
+\begin_layout Section
+Die grundsätzlichen Ziele der Deutschen Mitte sind die Freiheit und Selbstbestim
+mung der Menschen, 
+\end_layout
+
+\begin_layout Subsection
+Souveränität und Subsidiaritätsprinzip, ein fairer Umgang und Respekt in
+ allen Beziehungen zwischen Menschen, Ländern und Institutionen sowie weg
+ von der Konfrontation hin zu weltweiter Kooperation.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Wirtschaft muss den Menschen dienen (Gemeinwohlökonomie), das heißt, die
+ Wirtschaft ist für die Menschen da, und nicht umgekehrt! 
+\end_layout
+
+\begin_layout Enumerate
+Unternehmerisches Handeln muss mit Verantwortung einhergehen.
+ 
+\end_layout
+
+\begin_layout Subsection
+Die Deutsche Mitte bekennt sich zu sozialer Marktwirtschaft.
+ Sozial bedeutet für uns, dass wir für ein auskömmliches Einkommen eines
+ jeden Bürgers sorgen wollen.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Die Gewinne der Unternehmen entstehen durch die Synergie von Arbeit und
+ Kapital, immer sind beide Einsatzfaktoren beteiligt.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Daher ist es gerechtfertigt und fair, dass beide Einsatzfaktoren bei der
+ Verteilung des Gewinns berücksichtigt werden.
+ 
+\end_layout
+
+\begin_layout Subsection
+Der Zustand, dass der Gewinn ausschließlich dem Einsatzfaktor Kapital zugeschlag
+en wird, muss beendet werden.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Für die Wirtschaftspolitik bedeutet das, dass wir ein möglichst regionales
+ Wirtschaften anstreben.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Der Staat muss sich auf seine hoheitlichen Aufgaben konzentrieren, wir wollen
+ keine Privatisierung von öffentlichen Gütern.
+ Wir wollen – auch auf globaler Ebene – einen fairen und ressourcenschonenden
+ kooperativen Handel.
+\end_layout
+
+\begin_layout Section*
+Mit welchen Maßnahmen kann das Ziel erreicht werden? 
+\end_layout
+
+\begin_layout Subsection
+Die erste und wichtigste Maßnahme ist die Einführung eines Vollgeldsystems.
+ Vollgeld ist Zentralbankgeld.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Durch die Einführung des Vollgeldes wird das Recht zur Geldschöpfung von
+ den privaten Geschäftsbanken ausschließlich zur Bundesbank als Zentralbank
+ unserer Landeswährung zurückverlagert.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Die Bundesbank wird zu einer unabhängigen 4.
+ Gewalt im Staate, der sogenannten „Monetative“, ausgebaut.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Sie ist nur dem Wohle des deutschen Volkes, der Geldwertstabilität und der
+ Überwachung des gesamtwirtschaftlichen Gleichgewichtes verpflichtet (siehe
+ „Finanzen“).
+ 
+\end_layout
+
+\begin_layout Subsection
+Die zweite Maßnahme besteht in der Abschaffung des Zinses.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Damit werden alle fatalen Folgen des Zinses, die oben bereits dargestellt
+ wurden (exponentiell steigende Verschuldung, zunehmende Umverteilung von
+ Vermögen und Einkommen von Fleißig nach Reich), aus dem System genommen.
+ Und das Finanzsystem kann nicht mehr zusammenbrechen.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Die Banken werden wieder Finanzdienstleister mit einem veränderten Geschäftsmode
+ll, das nicht mehr auf den Zins aufbaut.
+ 
+\end_layout
+
+\begin_layout Subsection
+Weiterhin werden wir das Wirken von Außenhandel, Globalisierung und Liberalisier
+ung immer im Sinne des Gemeinwohls aller Beteiligten ausrichten.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Wir sorgen für Fairness in den internationalen Handelsstrukturen, notfalls
+ mit Strafzöllen, und beenden damit das globale Preisdumping.
+ Konzernbestimmte Freihandelsverträge (TTIP, TISA, usw.) werden wir nicht
+ akzeptieren.
+ 
+\end_layout
+
+\begin_layout Subsection
+Unternehmen, die sozial, ökologisch, menschenfreundlich und flexibel arbeiten,
+ erhalten finanzielle Erleichterungen.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Familienunternehmen, Genossenschaften sowie Mitarbeiterbeteiligung werden
+ ebenso gefördert wie Solidität und Stabilität der Unternehmensfinanzen,
+ auch durch die Bildung stiller Reserven.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Wir fördern open-source-Projekte im Sinne einer kooperativen Wirtschaftsordnung
+ sowie regionales Wirtschaften und handwerkliche Eigenproduktion.
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Die Deutsche Mitte fordert eine umgehende Einführung eines bedingungslosen
+ Grundeinkommens (BGE), welches die tatsächlichen Grundbedürfnisse der Bürger
+ ohne Abzüge oder Anrechnung deckt.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Das ermöglicht den Menschen ein Leben ohne Existenzangst, beendet die Altersarmu
+t und reduziert die Sozialverwaltung auf den Ausgleich von Notlagen und
+ Härtefällen.
+ Diskussionen über Mindestlöhne werden damit überflüssig.
+ Ein Grundeinkommen fördert gemeinnützige Arbeit und löst Existenzprobleme.
+ 
+\end_layout
+
+\begin_layout Subsection
+Öffentliche Aufgaben des Staates über die hoheitlichen Aufgaben hinaus sind
+ z.B.
+ die Versorgung mit öffentlichen Gütern und die medizinische Grundversorgung.
+\end_layout
+
+\begin_layout Subsubsection
+Daher sind die erfolgten Privatisierungen in diesen Bereichen umgehend rückabzuw
+ickeln (Krankenhäuser, Trinkwasser, Infrastruktur, usw.) 
+\end_layout
+
+\begin_layout Subsection
+Wir sorgen für eine angemessene und faire Besteuerung von allen Firmen,
+ die in Deutschland, bzw.
+ der EU, Geschäfte betreiben.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Dabei spielt es keine Rolle, wo sich der Firmensitz befindet (siehe „Finanzen“).
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Wir werden das Steuerrecht so ausgestalten, dass es dem systemischen Zweck
+ dient und nicht ideologisch getrieben ist.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Wir fordern die Einführung einer Finanztransaktionssteuer, um die weltweiten
+ Spekulationsgeschäfte im Hochfrequenzhandel und die damit verbundenen Gefahren
+ für die Finanzmärkte und die reale Wirtschaft einzudämmen.
+ 
+\end_layout
+
+\begin_layout Subsection
+Die Deutsche Mitte fordert die Einführung einer Vermögenssteuer, beginnend
+ oberhalb eines Kapitalvermögens von 10 Mio €, einem sonstigen Privatvermögen
+ von 100 Mio € und einem Betriebsvermögen von 100 Mio € mit einem ansteigenden
+ Steuersatz.
+ 
+\end_layout
+
+\begin_layout Subsection
+Alle Subventionen sind grundsätzlich zeitlich begrenzt und haben ein Verfallsdat
+um.
+ 
+\end_layout
+
+\begin_layout Subsection
+Geplante und eingebaute Produktalterung (Obsoleszenz) wird ein Straftatbestand,
+ die Mindestgarantiefrist wird auf drei Jahre verlängert.
+ So fördern wir Wertarbeit und den Verzicht auf Billigprodukte.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Die Produkte sind lange haltbar, umweltfreundlich, praktisch und ungefährlich.
+ Durch Veränderung des Patent- und Markenrechts werden neue Technologien
+ und Erfindungen gefördert und schneller in Produkte umgesetzt.
+ 
+\end_layout
+
+\begin_layout Subsection
+Die Unterdrückung von Erfindungen aus eigensüchtigen Motiven sowie Kartellbildun
+g werden nicht mehr geduldet und wirksam unterbunden.
+ Technologischer Fortschritt soll gesellschaftlich und dauerhaft nutzbar
+ sein.
+ 
+\end_layout
+
+\begin_layout Subsection
+Die Deutsche Mitte fordert und fördert ein für die Zukunft tragfähiges Energieko
+nzept unter Nutzung aller verfügbaren Energiequellen, sofern sie ressourcenschon
+end, dezentral, grundlastfähig und technisch beherrschbar und verantwortbar
+ sind.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Die Entwicklung alternativer Techniken wird gefördert.
+ Energieautonomie ist gewollt und wird auf allen Ebenen gefördert (siehe
+ „Energiepolitik“).
+ 
+\end_layout
+
+\begin_layout Subsection
+Wir fordern ein unzensiertes und frei zugängliches Internet.
+ Beibehaltung des Modells der dualen Ausbildung als Erfolgsfaktor des deutschen
+ Mittelstands.
+\end_layout
+
+\end_body
+\end_document
