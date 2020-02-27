@@ -1,0 +1,610 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass scrartcl
+\begin_preamble
+\usepackage{lastpage}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{Programm der Deutschen Mitte}
+\rhead{Finanzen}
+\rfoot{Seite \thepage \hspace{1pt} von \pageref{LastPage}}
+\lfoot{Autor: AG-Programmgestaltung\newline
+Version: 1.0}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language german
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "biolinum" "default"
+\font_typewriter "cmtl" "default"
+\font_math "auto" "auto"
+\font_default_family sfdefault
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format pdf2
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle false
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 2cm
+\topmargin 2cm
+\rightmargin 2cm
+\bottommargin 2cm
+\headsep 1cm
+\footskip 1.5cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip medskip
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style german
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Parteiprogramm Finanzen
+\end_layout
+
+\begin_layout Subtitle
+25.02.2020 Klausurtagung Königswinter 15./16.02.2020
+\end_layout
+
+\begin_layout Author
+(Entwurf von Hans-Herbert Eickholt)
+\end_layout
+
+\begin_layout Section*
+Finanzpolitik: 
+\end_layout
+
+\begin_layout Subsection*
+Die Aufgaben des Bundesfinanzministeriums sind in Zeiten der Dollar-, Euro-
+ und Schuldenkrise sowie durch die Herausforderungen aus dem global agierenden,
+ mafiotisch strukturierten Finanzsektor so groß wie nie.
+ 
+\end_layout
+
+\begin_layout Subsection*
+Es gilt, sich der korrupten, gefährlichen politischen Einflussnahme mittels
+ der Beherrschung der Finanzsysteme zu erwehren.
+ 
+\end_layout
+
+\begin_layout Section
+Um welches systemische Problem handelt es sich in der Finanzpolitik?
+\end_layout
+
+\begin_layout Subsection
+Die Deutsche Mitte sieht die Ausbeutung der Menschen mittels des Finanz-
+ und Geldsystems durch das weltweite Finanzkartell der privaten Geschäftsbanken
+ als das grundsätzliche Problem an.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Das derzeitige verzinste Schuldgeldsystem in Kombination mit der Geldschöpfung
+ in privater Hand macht es den Banken leicht, nicht nur die Ausbeutung voran
+ zu treiben, sondern sie auch gleichzeitig zu verschleiern.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Das heutige Finanzsystem ist gekennzeichnet durch eine massive Ungleichverteilun
+g und Umverteilung von Vermögen und Einkommen von Fleißig nach Reich.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Die weltweite Schuldenlast steigt exponentiell, die Verzinsung der Schulden
+ erzwingt Wirtschaftswachstum und der Crash des Finanzsystems ist zwingend
+ eingebaut.
+\end_layout
+
+\begin_layout Subsection*
+Was ist die Ursache des Problems?
+\end_layout
+
+\begin_layout Subsection
+Die Ursache des Problems ist im heutigen Geldsystem begründet, das dadurch
+ gekennzeichnet ist, dass Privatbanken das Geld durch Kreditvergabe aus
+ dem Nichts schöpfen („Fiat-Money“ oder auch „Giralgeldschöpfung der Geschäftsba
+nken“).
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Dieses Verfahren etabliert ein Schuldgeldsystem, weil sich bei einem Kredit
+ immer irgendjemand verschulden muss.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Der Anteil des von den Zentralbanken geschöpften Geldes ist vernachlässigbar
+ klein (< 10 %).
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Der wesentliche Faktor in diesem System ist der Zins, mit fatalen Folgen:
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Der Zins wird bei der Kreditvergabe und der damit verbundenen Geldschöpfung
+ nicht mit geschöpft.
+ 
+\end_layout
+
+\begin_layout Itemize
+Das bedeutet, dass das Geld zur Zahlung der Zinsen nicht im System existiert
+ und daher in Höhe der Zinsen durch die Aufnahme neuer Kredite erst geschöpft
+ werden muss! 
+\end_layout
+
+\begin_layout Itemize
+Für diese Kredite müssen dann aber auch wieder Zinsen gezahlt werden.
+ 
+\end_layout
+
+\begin_layout Itemize
+Auf diese Weise kommt über den Zinseszinseffekt die exponentiell steigende
+ Kurve der Verschuldung zustande.
+ 
+\end_layout
+
+\begin_layout Subsection
+Eine weitere fatale Folge: 
+\begin_inset Newline newline
+\end_inset
+
+Die gesamten Zinsen des Systems müssen letztendlich vom Endverbraucher bezahlt
+ werden, weil die Unternehmen ihre Kosten (Zinsen) über die Preise an die
+ Endverbraucher weitergeben (müssen).
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Damit ist der Zins der treibende und einzige Faktor für die Umverteilung
+ von Vermögen und Einkommen von Fleißig nach Reich.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Noch eine fatale Folge: Aufgrund der Exponentialfunktion der Verschuldung
+ kann die Realwirtschaft den Zins (die im System zu zahlenden Zinsen) nicht
+ auf Dauer erwirtschaften, denn es kann kein unendliches Wachstum geben.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+Das bedeutet: 
+\end_layout
+
+\begin_layout Subsection
+Der Crash des Finanzsystems ist somit im System eingebaut!
+\end_layout
+
+\begin_layout Section
+Wo stehen wir heute?
+\end_layout
+
+\begin_layout Subsection*
+Der Stand des heutigen Geld- und Finanzsystems ist durch folgende Symptome
+ gekennzeichnet: 
+\end_layout
+
+\begin_layout Enumerate
+Durch die gefährliche politische Einflussnahme einer globalen Bankenmacht
+ mittels der Beherrschung der Finanzsysteme werden demokratische Prinzipien
+ ausgehebelt.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Das Gleiche gilt für den ausufernden Lobbyismus der Finanzkartelle.
+\end_layout
+
+\begin_layout Subsection
+Das globale Finanzkasino sorgt mit seinen Spekulantentricks wie Derivate-Handel,
+ Leerverkäufen und Termingeschäften für Spekulationsblasen, die gefährlich
+ auf die Realwirtschaft durchschlagen können.
+ 
+\end_layout
+
+\begin_layout Subsection
+Die EZB treibt mit ihrer Geldpolitik die Zinsen in den Minusbereich, alle
+ anderen Finanzinstrumente greifen nicht mehr, das Geldsystem ist am Ende,
+ der Geldverkehr wird zunehmend reglementiert, der Crash des Finanzsystems
+ steht kurz bevor.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Das Bargeld soll abgeschafft werden mit dem Ziel einer totalen Überwachung
+ von allen Zahlungsvorgängen.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Die Geldschöpfung liegt heute in privater Hand (Geschäftsbanken).
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Damit fallen auch die Geldschöpfungsgewinne (Seigniorage) an die Privatbanken,
+ Gewinne, die dem Grunde nach der öffentlichen Hand zustehen.
+ 
+\end_layout
+
+\begin_layout Subsection
+Eine öffentliche Kontrolle der Geldschöpfung ist heute nur sehr eingeschränkt
+ möglich.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Kriminelle Abzocke-Geschäfte wie Cum-Ex werden nur halbherzig verfolgt.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Eine Reihe von Banken ist marode und birgt damit erhebliche Risiken, insbesonder
+e für Kleinanleger.
+ 
+\end_layout
+
+\begin_layout Subsection
+Das heutige System mit einer nationalen Währung (Dollar) als Weltleitwährung
+ wird von den USA als Machtinstrument missbraucht und treibt ganze Staaten
+ in den Abgrund.
+\end_layout
+
+\begin_layout Section
+Was ist das grundsätzliche Ziel der DM?
+\end_layout
+
+\begin_layout Subsection*
+Die grundsätzlichen Ziele der Deutschen Mitte sind die Freiheit und Selbstbestim
+mung der Menschen, Souveränität und Subsidiaritätsprinzip, ein fairer Umgang
+ und Respekt in allen Beziehungen zwischen Menschen, Ländern und Institutionen
+ sowie weg von der Konfrontation hin zu weltweiter Kooperation.
+ 
+\end_layout
+
+\begin_layout Subsection
+Für die Finanzpolitik bedeutet das: Abschaffung der Ausbeutung der Menschen
+ über die Umverteilung von Vermögen und Einkommen mittels des Finanz- und
+ Geldsystems.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Eindämmung der globalen Bankenmacht (Finanzkartelle) und der politischen
+ Einflussnahme.
+ Eindämmung des globalen „Finanzkasinos“.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Wir wollen ein Geld- und Finanzsystem ohne eingebauten Crash.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Die Geldschöpfung gehört in die öffentliche Hand.
+\end_layout
+
+\begin_layout Section
+Mit welchen Maßnahmen kann das Ziel erreicht werden?
+\end_layout
+
+\begin_layout Subsection
+Vollgeld: 
+\begin_inset Newline newline
+\end_inset
+
+Die Deutsche Mitte steht für eine Rückkehr zum wechselkursbasierten Währungssyst
+em nationaler Währungen.
+ 
+\end_layout
+
+\begin_layout Itemize
+Wir führen die Deutsche Mark als nationale Währung wieder ein.
+ 
+\end_layout
+
+\begin_layout Itemize
+Die Geldschöpfung kommt in die öffentliche Hand und damit unter öffentliche
+ Kontrolle.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Wir schaffen das verzinste Schuldgeldsystem ab und ersetzen es durch ein
+ Vollgeldsystem ohne Zins.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Damit wird die Umverteilung von den Arbeitenden zu den Besitzenden beendet.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Alternative und regionale Währungen sind ebenso zu fördern wie Tauschringe,
+ sofern diese Systeme und Einrichtungen die Regelungen des nationalen Vollgeldsy
+stems nicht unterlaufen.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Grundeinkommen: 
+\begin_inset Newline newline
+\end_inset
+
+Die Deutsche Mitte fordert eine umgehende Einführung eines bedingungslosen
+ Grundeinkommens (BGE), welches die tatsächlichen Grundbedürfnisse der Bürger
+ ohne Abzüge oder Anrechnung deckt.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Das ermöglicht den Menschen ein Leben ohne Existenzangst, beendet die Altersarmu
+t und reduziert die Sozialverwaltung auf den Ausgleich von Notlagen und
+ Härtefällen.
+ (siehe „Wirtschaft“) 
+\end_layout
+
+\begin_layout Subsection
+Banken: 
+\begin_inset Newline newline
+\end_inset
+
+Wir führen die Banken zurück auf das Kerngeschäft eines Dienstleisters der
+ Kreditvergabe und Kreditvermittlung (z.B.
+ Bonitätsprüfung etc.).
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Andere Finanzierungsarten sehen konstruktive Modelle der begrenzten Zusammenarbe
+it wie zum Beispiel Beteiligungsformen aller Art auf Zeit vor.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Wir wollen ethisch ausgerichtete, bürgernahe Servicestrukturen, gerade auch
+ der privaten Banken, Sparkassen und Volksbanken.
+ 
+\end_layout
+
+\begin_layout Subsection
+Sparkassen und vor allem Volksbanken mit Genossenschaftsstrukturen gehören
+ zu den förderungswürdigen Unternehmensformen in diesem Sektor.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Wir fordern die Trennung von Geschäfts- und Investmentbanken.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Es darf keinen Computerhandel im Millisekundentakt geben.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Wir fordern eine Mindesthaltedauer von 2 Minuten.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Wir fordern ein Verbot von Abzocke-Geschäften wie Cum-Ex und Geldstrafen
+ in Höhe des 10-fachen des entstandenen Schadens.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Prüfungen und Kontrollen durch BAFin, Rechnungshöfen und Zoll werden intensivier
+t zur Durchsetzung des Rechts und Bekämpfung der Korruption.
+ 
+\end_layout
+
+\begin_layout Itemize
+Marode Banken werden vorübergehend verstaatlicht und teilweise in kontrollierten
+ Konkurs gehen.
+ 
+\end_layout
+
+\begin_layout Itemize
+Keine weitere Übernahme von Risiken, Verpflichtungen oder Garantien zu Gunsten
+ anderer Staaten der Eurozone.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Diese Schritte werden international abgestimmt, durchgesetzt und eingeführt
+ genau wie das Verbot von Spekulantentricks wie Derivate-Handel, Leerverkäufe
+ und Termingeschäfte.
+ 
+\end_layout
+
+\begin_layout Subsection
+Steuern: 
+\end_layout
+
+\begin_layout Subsubsection
+Wir sorgen für eine angemessene und faire Besteuerung von allen Firmen,
+ die in Deutschland, bzw.
+ der EU, Geschäfte betreiben.
+ 
+\end_layout
+
+\begin_layout Itemize
+Dabei spielt es keine Rolle, wo sich der Firmensitz befindet.
+ 
+\end_layout
+
+\begin_layout Itemize
+Wir werden das Steuerrecht so ausgestalten, dass es dem systemischen Zweck
+ dient und nicht ideologisch getrieben ist.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Wir fordern die Einführung einer Finanztransaktionssteuer, um die weltweiten
+ Spekulationsgeschäfte im Hochfrequenzhandel und die damit verbundenen Gefahren
+ für die Finanzmärkte und die reale Wirtschaft einzudämmen.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Die Deutsche Mitte fordert die Einführung einer Vermögenssteuer, beginnend
+ oberhalb eines Kapitalvermögens von 10 Mio €, einem sonstigen Privatvermögen
+ von 100 Mio € und einem Betriebsvermögen von 100 Mio € mit einem ansteigenden
+ Steuersatz.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Alle Subventionen sind grundsätzlich zeitlich begrenzt und haben ein Verfallsdat
+um.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Wir wollen alle ethisch handelnden Unternehmen fördern.
+ 
+\begin_inset Newline newline
+\end_inset
+
+Dazu gehören auch Familienunternehmen und gemeinnützige Organisationen.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Wir fordern eine Rück-Änderung des Bilanzrechtes mit dem Ziel, die Bildung
+ von stillen Reserven zu erleichtern.
+ 
+\end_layout
+
+\begin_layout Subsection
+Wir wollen die Ausnahmen und Subventionen deutlich reduzieren.
+ 
+\end_layout
+
+\begin_layout Itemize
+Es soll mehr Mitsprache für die Steuerzahler geben.
+ 
+\end_layout
+
+\begin_layout Itemize
+Weiteres: 
+\begin_inset Newline newline
+\end_inset
+
+Wir fordern die Demokratisierung der EU-Finanzen.
+ 
+\end_layout
+
+\begin_layout Subsection
+Die EZB muss tiefgreifend reformiert werden und darf nicht durch US-Bänker
+ geleitet oder kontrolliert werden.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Künftig darf nie wieder eine nationale Währung Weltleitwährung sein! 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Denn es ist genau dieser Umstand, der in den letzten Jahren immer wieder
+ zu Kriegen geführt hat – und jetzt global brandgefährlich wird! 
+\end_layout
+
+\begin_layout Enumerate
+Das Bargeld bleibt erhalten! 
+\end_layout
+
+\begin_layout Enumerate
+Wir führen die Goldreserven nach Deutschland zurück und erhöhen schrittweise
+ die Golddeckung.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Superreiche und Großkonzerne sollen darüber hinaus freiwillig mehr Steuern
+ in Deutschland zahlen – dies als soziales Mäzenatentum.
+\end_layout
+
+\end_body
+\end_document
