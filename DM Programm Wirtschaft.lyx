@@ -1,4 +1,4 @@
-﻿#LyX 2.3 created this file. For more info see http://www.lyx.org/
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
 \lyxformat 544
 \begin_document
 \begin_header
@@ -115,6 +115,10 @@ Parteiprogramm Wirtschaft
 
 \begin_layout Author
 (Entwurf von Hans-Herbert Eickholt)
+\begin_inset Newpage pagebreak
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
@@ -196,10 +200,6 @@ Der Grundsatz, dass die Wirtschaft den Menschen dienen und ihre Bedürfnisse
 
 \begin_layout Subsection
 Was ist die Ursache des Problems? 
-\begin_inset Newpage pagebreak
-\end_inset
-
-
 \end_layout
 
 \begin_layout Subsubsection
@@ -229,7 +229,10 @@ Für diese Kredite müssen dann aber auch wieder Zinsen gezahlt werden.
 \begin_layout Subsubsection
 Auf diese Weise kommt über den Zinseszinseffekt die exponentiell steigende
  Kurve der Verschuldung zustande.
- 
+\begin_inset Newpage pagebreak
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
@@ -443,17 +446,16 @@ Familienunternehmen, Genossenschaften sowie Mitarbeiterbeteiligung werden
 \begin_layout Subsubsection
 Wir fördern open-source-Projekte im Sinne einer kooperativen Wirtschaftsordnung
  sowie regionales Wirtschaften und handwerkliche Eigenproduktion.
-\begin_inset Newpage pagebreak
-\end_inset
-
-
 \end_layout
 
 \begin_layout Subsection
 Die Deutsche Mitte fordert eine umgehende Einführung eines bedingungslosen
  Grundeinkommens (BGE), welches die tatsächlichen Grundbedürfnisse der Bürger
  ohne Abzüge oder Anrechnung deckt.
- 
+\begin_inset Newpage pagebreak
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsubsection
